@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Learning with Fun</title>
+<meta name="description" content="Learning with Fun — daily ABC, numbers, shapes and more learning videos for toddlers and preschool kids. Best for your kid to make future.">
+<link rel="icon" href="assets/logo.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;700;800&family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="topbar">
+  <a class="brand" href="#top">
+    <img src="assets/logo.jpg" alt="Learning with Fun logo">
+    <span><b>Learning with Fun</b><small>@LearningwithFunkid</small></span>
+  </a>
+  <nav class="nav">
+    <a href="#today">Today</a>
+    <a href="#loved">Parents' Picks</a>
+    <a href="#learn">Categories</a>
+    <a href="#parents">For Parents</a>
+  </nav>
+  <a class="btn btn-sub" href="https://www.youtube.com/@LearningwithFunkid?sub_confirmation=1" target="_blank" rel="noopener">▶ Subscribe</a>
+</header>
+
+<main id="top">
+
+  <section class="hero">
+    <div class="hero-text">
+      <p class="pill">🎉 A new video every day</p>
+      <h1>Little minds, <span class="rainbow">big futures!</span></h1>
+      <p class="lead">ABC, numbers, shapes, animals and more in short, colourful lessons your child will love. Made for toddlers and preschoolers. Best for your kid to make future.</p>
+      <div class="hero-cta">
+        <a class="btn btn-big" href="#today">⭐ Watch today's video</a>
+        <a class="btn btn-ghost" href="#learn">Explore topics</a>
+      </div>
+      <div class="stars-box" id="starsBox" aria-live="polite">
+        <span class="stars-count" id="starsCount">0</span>
+        <span>stars earned by your little learner ✨<br><small id="streakText">Watch a video to earn your first star!</small></span>
+      </div>
+    </div>
+    <div class="hero-art">
+      <img src="assets/logo.jpg" alt="Kids Learning with Fun">
+      <span class="float f1">A</span><span class="float f2">1</span><span class="float f3">★</span><span class="float f4">B</span><span class="float f5">3</span>
+    </div>
+  </section>
+
+  <section id="today" class="section">
+    <div class="section-head">
+      <h2>📺 Today's New Video</h2>
+      <p id="todayDate"></p>
+    </div>
+    <div id="todayBox" class="today"></div>
+  </section>
+
+  <section id="loved" class="section loved">
+    <div class="section-head">
+      <h2>💖 Loved by Parents</h2>
+      <p>The Shorts parents watch and share the most. Quick 1-minute wins for busy days!</p>
+    </div>
+    <div id="lovedRow" class="shorts-row"></div>
+  </section>
+
+  <section id="learn" class="section">
+    <div class="section-head">
+      <h2>🧸 Learn by Topic</h2>
+      <p>Pick a topic and start learning together.</p>
+    </div>
+    <div id="tabs" class="tabs" role="tablist"></div>
+    <div id="grid" class="grid"></div>
+  </section>
+
+  <section id="parents" class="section parents">
+    <div class="section-head">
+      <h2>👨‍👩‍👧 Help Your Little Star Shine</h2>
+      <p>Two minutes from you makes the lesson twice as strong.</p>
+    </div>
+    <div class="tips">
+      <div class="tip"><span>🤝</span><h3>Watch together</h3><p>Sit with your child, point at the screen and say the letters and numbers out loud together.</p></div>
+      <div class="tip"><span>⏸️</span><h3>Pause &amp; ask</h3><p>Pause the video and ask “What comes next?” Kids learn best when they guess first.</p></div>
+      <div class="tip"><span>🔁</span><h3>Repeat daily</h3><p>Short daily practice beats one long session. One video a day builds a strong habit.</p></div>
+      <div class="tip"><span>🏆</span><h3>Celebrate wins</h3><p>Clap, cheer and collect stars on this page. Praise builds confidence for school.</p></div>
+    </div>
+
+    <div class="engage">
+      <h3>Your support helps us make a new lesson every day 🌈</h3>
+      <div class="engage-grid">
+        <a class="engage-card" href="https://www.youtube.com/@LearningwithFunkid?sub_confirmation=1" target="_blank" rel="noopener"><span>🔔</span><b>Subscribe &amp; ring the bell</b><small>Never miss the daily video</small></a>
+        <a class="engage-card" id="likeLink" href="https://www.youtube.com/@LearningwithFunkid" target="_blank" rel="noopener"><span>👍</span><b>Like today's video</b><small>It helps more parents find us</small></a>
+        <a class="engage-card" id="commentLink" href="https://www.youtube.com/@LearningwithFunkid" target="_blank" rel="noopener"><span>💬</span><b>Tell us in the comments</b><small id="commentPrompt">Which letter did your child learn today?</small></a>
+        <button class="engage-card" id="shareBtn" type="button"><span>📤</span><b>Share with a parent friend</b><small id="shareMsg">Send to your family WhatsApp group</small></button>
+      </div>
+    </div>
+
+    <div class="why">
+      <div><b>🎨 Bright &amp; colourful</b><p>Animations that keep little eyes happy.</p></div>
+      <div><b>🛡️ Safe &amp; kid-friendly</b><p>Clean content made only for young children.</p></div>
+      <div><b>⏱️ Bite-sized</b><p>Short lessons sized for small attention spans.</p></div>
+      <div><b>📚 School-ready</b><p>ABC, counting and tables that build a head start.</p></div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <img src="assets/logo.jpg" alt="">
+  <p><b>Learning with Fun</b> · <a href="https://www.youtube.com/@LearningwithFunkid" target="_blank" rel="noopener">youtube.com/@LearningwithFunkid</a></p>
+  <p class="muted" id="updated"></p>
+</footer>
+
+<div class="modal" id="modal" hidden>
+  <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <button class="modal-close" id="modalClose" aria-label="Close">✕</button>
+    <div class="player" id="player"></div>
+    <div class="modal-foot">
+      <h3 id="modalTitle"></h3>
+      <div class="modal-actions">
+        <a class="btn" id="modalYt" target="_blank" rel="noopener">👍 Like on YouTube</a>
+        <button class="btn btn-star" id="modalStar" type="button">⭐ I learned it!</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast" hidden></div>
+
+<script src="config.js"></script>
+<script src="data/videos.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

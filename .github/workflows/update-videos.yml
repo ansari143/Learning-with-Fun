@@ -1,0 +1,24 @@
+# Runs every day, pulls the newest videos from the YouTube channel and saves data/videos.js.
+# Works when this site is hosted on GitHub Pages (Settings > Pages > Deploy from branch).
+name: Update videos daily
+on:
+  schedule:
+    - cron: '30 */6 * * *'   # every 6 hours, so the daily upload shows up the same day
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node update-videos.js
+      - name: Save changes
+        run: |
+          git config user.name "video-bot"
+          git config user.email "video-bot@users.noreply.github.com"
+          git add data/videos.js
+          git diff --cached --quiet || (git commit -m "Daily video update" && git push)
