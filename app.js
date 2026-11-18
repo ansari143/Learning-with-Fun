@@ -50,11 +50,22 @@
   const topShorts = D.shorts.filter(s => s.views >= C.topShortsMinViews).sort((a, b) => b.views - a.views).slice(0, C.topShortsMax);
   const popularVideos = D.videos.filter(v => v.views >= C.popularVideosMinViews).sort((a, b) => b.views - a.views).slice(0, C.popularVideosMax);
 
+  const ALL_CATS = [...C.categories, C.otherTopic];
+  const catById = id => ALL_CATS.find(c => c.id === id);
   const catOf = title => {
     const t = title.toLowerCase();
-    const c = C.categories.find(c => c.words.some(w => t.includes(w)));
-    return c ? c.id : 'more';
+    const c = C.categories.find(c => c.words.some(w => t.includes(w)))
+      || C.categories.find(c => (c.fallbackWords || []).some(w => t.includes(w)));
+    return c ? c.id : C.otherTopic.id;
   };
+  const cleanTitle = t => t.replace(/#\S+/g, '').replace(/\s{2,}/g, ' ').trim();
+
+  // Whole channel for "Learn by Topic": videos then Shorts, each tagged with topic + group.
+  const library = [
+    ...D.videos.map((v, i) => ({ ...v, kind: 'video', order: i })),
+    ...D.shorts.map((s, i) => ({ ...s, kind: 'short', order: D.videos.length + i })),
+  ];
+  library.forEach(v => { v.cat = catOf(v.title); v.group = catById(v.cat).group; });
   longVideos.forEach(v => v.cat = catOf(v.title));
 
   const prompts = {
@@ -63,7 +74,8 @@
     tables: 'Which times table is your child practising? Comment below! ✖️',
     shapes: 'What is your child\'s favourite shape or colour? 🔷',
     nature: 'Which animal does your child love most? 🐘',
-    world: 'What new word did your child learn today? 📅',
+    days: 'Can your child say all the days of the week? 📅',
+    world: 'What new word did your child learn today? 🌍',
     rhymes: 'Did your child sing along? Tell us! 🎵',
     stories: 'What was your child\'s favourite part of the story? 📖',
     more: 'What did your child learn today? Tell us in the comments! 💬',
@@ -121,34 +133,63 @@
       </button>`).join('');
   }
 
-  // ---------- Categories ----------
-  let current = 'all';
-  const cats = [{ id: 'all', name: 'All Videos', icon: '🌈' }, ...C.categories];
-  if (longVideos.some(v => v.cat === 'more')) cats.push({ id: 'more', name: 'More Fun', icon: '🎈' });
+  // ---------- Learn by Topic ----------
+  const view = { group: C.groups[0].id, topic: 'all', kind: 'all', shown: C.topicsPageSize };
+  const inGroup = g => library.filter(v => v.group === g);
+  const topicsOf = g => ALL_CATS.filter(c => c.group === g && inGroup(g).some(v => v.cat === c.id));
+  const currentList = () => inGroup(view.group)
+    .filter(v => view.topic === 'all' || v.cat === view.topic)
+    .filter(v => view.kind === 'all' || v.kind === view.kind)
+    .sort((a, b) => b.views - a.views || a.order - b.order);
+
   function renderTabs() {
-    $('#tabs').innerHTML = cats.map(c => {
-      const n = c.id === 'all' ? longVideos.length : longVideos.filter(v => v.cat === c.id).length;
-      return `<button class="tab" role="tab" data-cat="${c.id}" aria-selected="${c.id === current}">${c.icon} ${esc(c.name)}<span class="n">${n}</span></button>`;
+    // Group switch
+    $('#groups').innerHTML = C.groups.map(g => `
+      <button class="group-btn" type="button" role="tab" data-group="${g.id}" aria-selected="${g.id === view.group}">
+        <span class="g-icon">${g.icon}</span><span class="g-name">${esc(g.name)}</span><span class="g-n">${inGroup(g.id).length}</span>
+      </button>`).join('');
+    const g = C.groups.find(g => g.id === view.group);
+    $('#groupBlurb').textContent = g.blurb;
+
+    // Topic chips (only when the group has more than one topic)
+    const topics = topicsOf(view.group);
+    const base = inGroup(view.group).filter(v => view.kind === 'all' || v.kind === view.kind);
+    $('#tabs').hidden = topics.length < 2;
+    $('#tabs').innerHTML = topics.length < 2 ? '' : [{ id: 'all', name: 'All ' + g.name, icon: '🌈' }, ...topics].map(c => {
+      const n = c.id === 'all' ? base.length : base.filter(v => v.cat === c.id).length;
+      return `<button class="tab" role="tab" data-cat="${c.id}" aria-selected="${c.id === view.topic}">${c.icon} ${esc(c.name)}<span class="n">${n}</span></button>`;
     }).join('');
+
+    // Videos / Shorts filter
+    const scope = inGroup(view.group).filter(v => view.topic === 'all' || v.cat === view.topic);
+    const kinds = [['all', 'All', scope.length], ['video', '🎬 Videos', scope.filter(v => v.kind === 'video').length], ['short', '⚡ Shorts', scope.filter(v => v.kind === 'short').length]];
+    $('#kinds').innerHTML = kinds.map(([id, name, n]) =>
+      `<button class="kind" type="button" data-kind="${id}" aria-pressed="${id === view.kind}" ${n ? '' : 'disabled'}>${name} <span class="n">${n}</span></button>`).join('');
   }
+
   function renderGrid() {
-    const list = current === 'all' ? longVideos : longVideos.filter(v => v.cat === current);
+    const list = currentList();
     const done = store.get().done;
-    const cat = cats.find(c => c.id === current);
     if (!list.length) {
-      $('#grid').innerHTML = `<div class="empty"><div class="big">${cat.icon}</div><h3>${esc(cat.name)} videos are on the way!</h3>
+      const g = C.groups.find(g => g.id === view.group);
+      $('#grid').innerHTML = `<div class="empty"><div class="big">${g.icon}</div><h3>More ${esc(g.name)} videos are on the way!</h3>
         <p>We upload a new lesson every day. Subscribe so your child is first to watch.</p>
         <a class="btn btn-sub" href="${C.channelUrl}?sub_confirmation=1" target="_blank" rel="noopener">🔔 Subscribe for new videos</a></div>`;
+      $('#moreBox').hidden = true;
       return;
     }
-    $('#grid').innerHTML = list.map(v => {
-      const c = cats.find(c => c.id === v.cat);
-      return `<button class="card" type="button" data-play="${v.id}" data-title="${esc(v.title)}">
-        <div class="thumb"><img src="${thumb(v.id)}" alt="" loading="lazy"><span class="dur">${esc(v.duration)}</span>${done.includes(v.id) ? '<span class="done">⭐ Learned</span>' : ''}</div>
-        <div class="body"><span class="badge">${c.icon} ${esc(c.name)}</span><h3>${esc(v.title)}</h3>
-        <div class="meta">${fmtDate(v.published)}${v.views ? ' · ' + fmtViews(v.views) + ' views' : ''}</div></div>
+    $('#grid').innerHTML = list.slice(0, view.shown).map(v => {
+      const c = catById(v.cat);
+      const isShort = v.kind === 'short';
+      return `<button class="card${isShort ? ' is-short' : ''}" type="button" data-play="${v.id}" data-title="${esc(v.title)}"${isShort ? ' data-short="1"' : ''}>
+        <div class="thumb"><img src="${thumb(v.id)}" alt="" loading="lazy">${isShort ? '<span class="dur">⚡ Short</span>' : v.duration ? `<span class="dur">${esc(v.duration)}</span>` : ''}${done.includes(v.id) ? '<span class="done">⭐ Learned</span>' : ''}</div>
+        <div class="body"><span class="badge">${c.icon} ${esc(c.name)}</span><h3>${esc(cleanTitle(v.title))}</h3>
+        <div class="meta">👀 ${fmtViews(v.views)} views</div></div>
       </button>`;
     }).join('');
+    const left = list.length - view.shown;
+    $('#moreBox').hidden = left <= 0;
+    $('#moreBtn').textContent = `Show more (${left} left)`;
   }
 
   // ---------- Player modal ----------
@@ -169,8 +210,13 @@
     if (p) return openPlayer(p.dataset.play, p.dataset.title, p.dataset.short);
     const s = e.target.closest('[data-star]');
     if (s) return earnStar(s.dataset.star);
+    const g = e.target.closest('[data-group]');
+    if (g) { Object.assign(view, { group: g.dataset.group, topic: 'all', kind: 'all', shown: C.topicsPageSize }); renderTabs(); renderGrid(); return; }
     const t = e.target.closest('[data-cat]');
-    if (t) { current = t.dataset.cat; renderTabs(); renderGrid(); }
+    if (t) { Object.assign(view, { topic: t.dataset.cat, kind: 'all', shown: C.topicsPageSize }); renderTabs(); renderGrid(); return; }
+    const k = e.target.closest('[data-kind]');
+    if (k && !k.disabled) { Object.assign(view, { kind: k.dataset.kind, shown: C.topicsPageSize }); renderTabs(); renderGrid(); return; }
+    if (e.target.closest('#moreBtn')) { view.shown += C.topicsPageSize; renderGrid(); }
   });
   $('#modalStar').addEventListener('click', () => playing && earnStar(playing));
   $('#modalClose').addEventListener('click', closePlayer);

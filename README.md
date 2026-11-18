@@ -15,4 +15,4 @@ Kids learning site for the YouTube channel **@LearningwithFunkid**.
 ## Rules the site follows
 - **Long videos:** only uploads from `startDate` (17 Nov 2026) that are at least 3 minutes long. Newest is shown as **Today's New Video**.
 - **Loved by Parents:** Shorts with 1,000+ views, top 8, highest first.
-- **Topics:** a video goes to the first topic whose keywords appear in its title (Alphabets, Numbers, Tables, Shapes, Animals, Days & Months, Rhymes, Stories).
+- **Learn by Topic:** shows the whole channel (videos and Shorts) in three separate groups: Learning (Alphabets & Phonics, Numbers, Tables, Shapes & Colours, Days & Months, Animals & Nature, World & Words), Rhymes & Songs, and Stories. A title goes to the first topic in `config.js` whose words it contains. Songs that teach a subject (like "ABC Phonics Song") stay under Learning.

@@ -9,7 +9,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;700;800&family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css?v=9">
+<link rel="stylesheet" href="styles.css?v=11">
 </head>
 <body>
 
@@ -82,8 +82,12 @@
       <h2>🧸 Learn by Topic</h2>
       <p>Pick a topic and start learning together.</p>
     </div>
-    <div id="tabs" class="tabs" role="tablist"></div>
+    <div id="groups" class="groups" role="tablist" aria-label="Learning, rhymes or stories"></div>
+    <p id="groupBlurb" class="group-blurb"></p>
+    <div id="tabs" class="tabs" role="tablist" aria-label="Topics"></div>
+    <div id="kinds" class="kinds" aria-label="Videos or Shorts"></div>
     <div id="grid" class="grid"></div>
+    <div id="moreBox" class="more-box" hidden><button id="moreBtn" class="btn btn-ghost" type="button">Show more</button></div>
   </section>
 
   <section id="parents" class="section parents">
@@ -139,8 +143,8 @@
 
 <div class="toast" id="toast" hidden></div>
 
-<script src="config.js?v=9"></script>
+<script src="config.js?v=11"></script>
 <script src="data/videos.js"></script>
-<script src="app.js?v=9"></script>
+<script src="app.js?v=11"></script>
 </body>
 </html>
