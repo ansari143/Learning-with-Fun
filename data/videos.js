@@ -1,11 +1,11 @@
 window.LWF_DATA = {
- "updated": "2026-11-18T02:58:04.072Z",
+ "updated": "2026-11-18T07:53:20.168Z",
  "videos": [
   {
    "id": "D7bjvibGS5Q",
    "title": "Alphabet Learning with Quiz | Learning Video for Toddlers & Kids | 16 Minutes",
    "duration": "15:51",
-   "views": 4,
+   "views": 6,
    "published": "2026-11-17T14:49:42.867Z"
   },
   {
@@ -474,7 +474,7 @@ window.LWF_DATA = {
    "id": "p1CC1QosPoM",
    "title": "Learn A to Z Phonics Song with Examples | A for Apple 🍏 B for Ball ⚽ Z for Zebra 🦓",
    "duration": "3:08",
-   "views": 223,
+   "views": 224,
    "published": "2026-01-22T02:10:11.899Z"
   },
   {
@@ -502,14 +502,14 @@ window.LWF_DATA = {
    "id": "nMNoMeLxDD4",
    "title": "ABC Phonics for Kids | Learn English Alphabet A–Z | Colorful Pictures",
    "duration": "3:04",
-   "views": 242,
+   "views": 244,
    "published": "2026-01-22T02:10:11.899Z"
   },
   {
    "id": "TsI8XHCjPgs",
    "title": "ABC Animals A to Z 🐶🦁 | Learn Alphabet with Animals | Learning with Fun",
    "duration": "1:56",
-   "views": 36,
+   "views": 37,
    "published": "2026-01-22T02:10:11.899Z"
   },
   {
@@ -1074,7 +1074,7 @@ window.LWF_DATA = {
   {
    "id": "EEtn2x_eTUA",
    "title": "Learn 2 Table Without Mistakes 🔥 Viral Shorts",
-   "views": 423
+   "views": 425
   },
   {
    "id": "xptg3-3l1LY",
@@ -1084,7 +1084,7 @@ window.LWF_DATA = {
   {
    "id": "WeJyFZEFclE",
    "title": "6 Table Fast Challenge 😱 Can You Do It? Learn 6 Table Without Mistakes 🔥 Viral Shorts",
-   "views": 333
+   "views": 335
   },
   {
    "id": "9OBbgPwiBlI",
@@ -1114,7 +1114,7 @@ window.LWF_DATA = {
   {
    "id": "HLuWDOWYecQ",
    "title": "3 Table Fast Challenge 😱 Can You Do It?",
-   "views": 388
+   "views": 390
   },
   {
    "id": "ZKty-0wNE0c",
@@ -1129,7 +1129,7 @@ window.LWF_DATA = {
   {
    "id": "cUKQrTERmWw",
    "title": "6 Table Fast Challenge 😱 Can You Do It?",
-   "views": 307
+   "views": 309
   },
   {
    "id": "PZ26ks9xemI",
