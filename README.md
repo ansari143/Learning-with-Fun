@@ -9,7 +9,7 @@ Kids learning site for the YouTube channel **@LearningwithFunkid**.
 - `update-videos.js` — reads your channel's public Videos and Shorts pages (no API key needed) and rewrites `data/videos.js`.
 
 ## Daily update
-- **On your PC:** double-click `update-videos.bat` (needs Node.js and the Firebase CLI signed in as learningwithfunkid@gmail.com). It refreshes the list and publishes to https://learningwithfun-kids.web.app. Add it to Windows Task Scheduler to run daily.
+- **On your PC:** double-click `update-videos.bat` (needs Node.js and the Firebase CLI signed in with an account that can access the learningwithfun-kids project). It refreshes the list and publishes to https://learningwithfun-kids.web.app. Add it to Windows Task Scheduler to run daily.
 - **On GitHub Pages:** push this folder to a GitHub repo and turn on Pages. The workflow in `.github/workflows/update-videos.yml` refreshes the list every 6 hours.
 
 ## Rules the site follows
