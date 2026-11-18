@@ -1,0 +1,23 @@
+{
+  "hosting": {
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      ".git",
+      ".git/**",
+      ".github/**",
+      ".firebase/**",
+      "firebase-debug.log",
+      "**/node_modules/**",
+      "README.md",
+      "update-videos.js",
+      "update-videos.bat"
+    ],
+    "headers": [
+      { "source": "data/videos.js", "headers": [{ "key": "Cache-Control", "value": "max-age=300" }] },
+      { "source": "**/*.@(js|css)", "headers": [{ "key": "Cache-Control", "value": "max-age=3600" }] },
+      { "source": "assets/**", "headers": [{ "key": "Cache-Control", "value": "max-age=86400" }] }
+    ]
+  }
+}

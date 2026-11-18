@@ -1,4 +1,7 @@
 @echo off
-REM Double-click (or schedule in Windows Task Scheduler) to refresh the video list.
+REM Refreshes the video list from YouTube and publishes it to Firebase.
+REM Double-click it, or schedule it daily in Windows Task Scheduler.
 cd /d "%~dp0"
-node update-videos.js
+set NODE_OPTIONS=--use-system-ca
+node update-videos.js || exit /b 1
+firebase deploy --only hosting --account learningwithfunkid@gmail.com --non-interactive
