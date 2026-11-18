@@ -187,5 +187,7 @@
   });
 
   if (D.updated) $('#updated').textContent = `Videos updated ${fmtDate(D.updated)}`;
-  renderToday(); renderShorts(); renderPopularVideos(); renderTabs(); renderGrid(); renderStars();
+  renderToday(); renderShorts(); renderPopularVideos();
+  if (!topShorts.length && !popularVideos.length) { $('#loved').hidden = true; $('#lovedNav').hidden = true; }
+  renderTabs(); renderGrid(); renderStars();
 })();
