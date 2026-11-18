@@ -1,11 +1,11 @@
 window.LWF_DATA = {
- "updated": "2026-11-18T07:53:20.168Z",
+ "updated": "2026-11-18T20:50:53.442Z",
  "videos": [
   {
    "id": "D7bjvibGS5Q",
    "title": "Alphabet Learning with Quiz | Learning Video for Toddlers & Kids | 16 Minutes",
    "duration": "15:51",
-   "views": 6,
+   "views": 7,
    "published": "2026-11-17T14:49:42.867Z"
   },
   {
@@ -118,7 +118,7 @@ window.LWF_DATA = {
    "title": "Learn A to Z in Sequence 😲 | ABCD Fast Learning for Kids 🔥 | Easy Alphabet Song",
    "duration": "1:45",
    "views": 38,
-   "published": "2026-06-20T23:29:51.042Z"
+   "published": "2026-05-22T20:50:53.442Z"
   },
   {
    "id": "64lXRPNRFFs",
@@ -321,7 +321,7 @@ window.LWF_DATA = {
    "title": "Learn Table of 5 Easily 😲 | 5 Times Table for Kids | Fun & Simple Multiplication 🎶",
    "duration": "0:39",
    "views": 13,
-   "published": "2026-05-22T02:10:11.899Z"
+   "published": "2026-04-22T20:50:53.442Z"
   },
   {
    "id": "9ir8tv5m6FI",
@@ -474,7 +474,7 @@ window.LWF_DATA = {
    "id": "p1CC1QosPoM",
    "title": "Learn A to Z Phonics Song with Examples | A for Apple 🍏 B for Ball ⚽ Z for Zebra 🦓",
    "duration": "3:08",
-   "views": 224,
+   "views": 226,
    "published": "2026-01-22T02:10:11.899Z"
   },
   {
@@ -579,7 +579,7 @@ window.LWF_DATA = {
    "id": "cJqUdCMH0y4",
    "title": "ABC Phonics Song for Kids | A to Z Alphabet Learning with Sounds & Words | Fun Preschool Education",
    "duration": "47:15",
-   "views": 458,
+   "views": 461,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -909,12 +909,12 @@ window.LWF_DATA = {
   {
    "id": "1D6zYyY8jxY",
    "title": "Easy Bird Names for Nursery & Preschool",
-   "views": 488
+   "views": 490
   },
   {
    "id": "73BUh52a03c",
    "title": "Learn 10 Games Names in 20 Seconds! 🎯",
-   "views": 481
+   "views": 483
   },
   {
    "id": "ZXgw5x9cVIM",
@@ -944,47 +944,47 @@ window.LWF_DATA = {
   {
    "id": "6ixyH-0sTgI",
    "title": "10 Fruits Name for Kids 🌈 #Shorts",
-   "views": 213
+   "views": 215
   },
   {
    "id": "hPXNze8y4zk",
    "title": "1 to 10 Number Counting | Preschool Learning #shorts",
-   "views": 641
+   "views": 647
   },
   {
    "id": "_trHKogRgcs",
    "title": "91 to 100 Counting Made Easy | Nursery & Kindergarten Learning",
-   "views": 161
+   "views": 165
   },
   {
    "id": "g1zKZ-NZffA",
    "title": "Best Counting Video for Kids | 41–50",
-   "views": 183
+   "views": 187
   },
   {
    "id": "ejWG8GlKERc",
    "title": "(Topic) for Kids | Learning wiEasy Counting 81 to 90 for Preschool Kids",
-   "views": 203
+   "views": 205
   },
   {
    "id": "dh4gqwqBBiE",
    "title": "Easy Counting 31 to 40 for Preschool Kids",
-   "views": 242
+   "views": 244
   },
   {
    "id": "6ujXmbwtdoo",
    "title": "Easy Counting 21 to 30 for Preschool Kids",
-   "views": 219
+   "views": 221
   },
   {
    "id": "DnotY1uaMkk",
    "title": "11 to 20 Counting Made Easy 🌈 #shorts",
-   "views": 244
+   "views": 249
   },
   {
    "id": "6eBar-7udkg",
    "title": "Learn 1 to 10 Counting in 20 Seconds! 🚀",
-   "views": 399
+   "views": 403
   },
   {
    "id": "m-WBSgAS28o",
@@ -999,7 +999,7 @@ window.LWF_DATA = {
   {
    "id": "P7cvi30GW_g",
    "title": "Best Counting Trick for Nursery Kids 😍",
-   "views": 615
+   "views": 616
   },
   {
    "id": "-T8pDI68vG4",
@@ -1014,7 +1014,7 @@ window.LWF_DATA = {
   {
    "id": "cD3eYzHSVaY",
    "title": "ABC Challenge! Can You Say A to Z? 🤩",
-   "views": 795
+   "views": 794
   },
   {
    "id": "XzQW4FMHiNU",
@@ -1069,17 +1069,17 @@ window.LWF_DATA = {
   {
    "id": "cShVmZDQa2U",
    "title": "Learn ABC FAST 🚀 Easy A to Z for Kids",
-   "views": 642
+   "views": 641
   },
   {
    "id": "EEtn2x_eTUA",
    "title": "Learn 2 Table Without Mistakes 🔥 Viral Shorts",
-   "views": 425
+   "views": 424
   },
   {
    "id": "xptg3-3l1LY",
    "title": "4 Times Table in One Minute 🚀 Fun Learning Trick",
-   "views": 368
+   "views": 367
   },
   {
    "id": "WeJyFZEFclE",
@@ -1484,7 +1484,7 @@ window.LWF_DATA = {
   {
    "id": "0OBkBJpwBYU",
    "title": "A to Z Alphabet in Seconds 🔤 | Super Fast Kids Learning",
-   "views": 3000
+   "views": 3100
   },
   {
    "id": "u8ayw-_zOI8",
