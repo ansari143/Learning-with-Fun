@@ -7,7 +7,7 @@ const path = require('path');
 const HANDLE = '@LearningwithFunkid';
 const OUT = path.join(__dirname, 'data', 'videos.js');
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36';
-const MAX_PAGES = 15; // ~30 items per page
+const MAX_PAGES = 60; // ~30 items per page
 
 const walk = (o, key, out = []) => {
   if (Array.isArray(o)) o.forEach(v => walk(v, key, out));
@@ -39,15 +39,15 @@ async function getContinuation(token, version) {
 async function collect(tab, extract) {
   const { data, version } = await getPage(tab);
   const items = extract(data);
-  let tokens = walk(data, 'continuationCommand').map(c => c.token);
-  let token = tokens[tokens.length - 1];
+  // The first "load more" item is the grid's next page (later ones belong to the sort buttons).
+  const nextToken = o => walk(walk(o, 'continuationItemRenderer')[0], 'continuationCommand')[0]?.token;
+  let token = nextToken(data);
   for (let p = 0; token && p < MAX_PAGES; p++) {
     const more = await getContinuation(token, version);
     const got = extract(more);
     if (!got.length) break;
     items.push(...got);
-    tokens = walk(more, 'continuationCommand').map(c => c.token);
-    token = tokens[tokens.length - 1];
+    token = nextToken(more);
   }
   const seen = new Set();
   return items.filter(v => v.id && !seen.has(v.id) && seen.add(v.id));
