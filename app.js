@@ -191,3 +191,21 @@
   if (!topShorts.length && !popularVideos.length) { $('#loved').hidden = true; $('#lovedNav').hidden = true; }
   renderTabs(); renderGrid(); renderStars();
 })();
+
+// ---------- Phone menu ----------
+(function () {
+  const btn = document.getElementById('menuBtn');
+  const nav = document.getElementById('nav');
+  if (!btn || !nav) return;
+  const setOpen = open => {
+    nav.classList.toggle('open', open);
+    btn.classList.toggle('open', open);
+    btn.setAttribute('aria-expanded', open);
+    btn.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+  };
+  btn.addEventListener('click', () => setOpen(!nav.classList.contains('open')));
+  nav.addEventListener('click', e => { if (e.target.closest('a')) setOpen(false); });
+  document.addEventListener('click', e => { if (!e.target.closest('.topbar')) setOpen(false); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') setOpen(false); });
+  addEventListener('resize', () => { if (innerWidth > 900) setOpen(false); });
+})();
