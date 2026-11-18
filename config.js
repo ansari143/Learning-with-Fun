@@ -7,9 +7,13 @@ window.LWF_CONFIG = {
   // ...that are at least this long (in seconds). 180 = 3 minutes.
   longVideoMinSeconds: 180,
 
-  // "Loved by Parents": Shorts with at least this many views, best first.
-  topShortsMinViews: 1000,
-  topShortsMax: 8,
+  // "Popular Shorts": Shorts with at least this many views, best first.
+  topShortsMinViews: 500,
+  topShortsMax: 10,
+
+  // "Popular Videos": videos from the channel's Videos tab (any length), most viewed first.
+  popularVideosMinViews: 10,
+  popularVideosMax: 8,
 
   // Topics. A video goes to the first topic whose words appear in its title.
   categories: [

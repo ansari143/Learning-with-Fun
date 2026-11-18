@@ -48,6 +48,7 @@
     .filter(v => secs(v.duration) >= C.longVideoMinSeconds && new Date(v.published) >= start)
     .sort((a, b) => new Date(b.published) - new Date(a.published));
   const topShorts = D.shorts.filter(s => s.views >= C.topShortsMinViews).sort((a, b) => b.views - a.views).slice(0, C.topShortsMax);
+  const popularVideos = D.videos.filter(v => v.views >= C.popularVideosMinViews).sort((a, b) => b.views - a.views).slice(0, C.popularVideosMax);
 
   const catOf = title => {
     const t = title.toLowerCase();
@@ -97,9 +98,20 @@
   }
 
   // ---------- Loved shorts ----------
+  function renderPopularVideos() {
+    const row = $('#popVideosRow');
+    if (!popularVideos.length) { row.hidden = true; $('#popVideosHead').hidden = true; return; }
+    row.innerHTML = popularVideos.map((v, i) => `
+      <button class="card pop" type="button" data-play="${v.id}" data-title="${esc(v.title)}">
+        <div class="thumb"><img src="${thumb(v.id)}" alt="" loading="lazy"><span class="rank">#${i + 1}</span><span class="dur">${esc(v.duration)}</span></div>
+        <div class="body"><h3>${esc(v.title.replace(/#\w+/g, '').trim())}</h3>
+        <div class="meta">👀 ${fmtViews(v.views)} views</div><div class="fav">❤️ Parents' favourite</div></div>
+      </button>`).join('');
+  }
+
   function renderShorts() {
     const row = $('#lovedRow');
-    if (!topShorts.length) { $('#loved').hidden = true; return; }
+    if (!topShorts.length) { row.hidden = true; $('#popShortsHead').hidden = true; return; }
     row.innerHTML = topShorts.map((s, i) => `
       <button class="short" type="button" data-play="${s.id}" data-short="1" data-title="${esc(s.title)}">
         <img src="${thumb(s.id)}" alt="" loading="lazy">
@@ -175,5 +187,5 @@
   });
 
   if (D.updated) $('#updated').textContent = `Videos updated ${fmtDate(D.updated)}`;
-  renderToday(); renderShorts(); renderTabs(); renderGrid(); renderStars();
+  renderToday(); renderShorts(); renderPopularVideos(); renderTabs(); renderGrid(); renderStars();
 })();
