@@ -94,7 +94,7 @@
     const isNew = (Date.now() - new Date(v.published)) < 36 * 3600e3;
     $('#todayDate').textContent = `Uploaded ${fmtDate(v.published)} · a fresh lesson every day`;
     box.innerHTML = `
-      <div class="player"><iframe src="https://www.youtube.com/embed/${v.id}?rel=0&modestbranding=1" title="${esc(v.title)}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe></div>
+      <div class="player"><iframe src="https://www.youtube-nocookie.com/embed/${v.id}?rel=0&modestbranding=1" title="${esc(v.title)}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe></div>
       <div class="today-info">
         <div>${isNew ? '<span class="badge new">NEW TODAY</span> ' : ''}<span class="badge">⏱ ${esc(v.duration)}</span></div>
         <h3>${esc(v.title)}</h3>
@@ -196,7 +196,7 @@
   let playing = null;
   function openPlayer(id, title, isShort) {
     playing = id;
-    $('#player').innerHTML = `<iframe src="https://www.youtube.com/embed/${id}?autoplay=1&rel=0&modestbranding=1" title="${esc(title)}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
+    $('#player').innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${id}?autoplay=1&rel=0&modestbranding=1" title="${esc(title)}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
     $('#modalTitle').textContent = title;
     $('#modalYt').href = isShort ? shortUrl(id) : watchUrl(id);
     $('.modal-card').classList.toggle('vertical', !!isShort);
