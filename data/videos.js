@@ -1,5 +1,5 @@
 window.LWF_DATA = {
- "updated": "2026-11-19T06:43:30.917Z",
+ "updated": "2026-11-19T12:39:11.014Z",
  "videos": [
   {
    "id": "D7bjvibGS5Q",
@@ -20,7 +20,7 @@ window.LWF_DATA = {
    "title": "Number Words 1 to 10 | Learn One to Ten Easily for Kids",
    "duration": "0:40",
    "views": 39,
-   "published": "2026-09-18T23:29:51.042Z"
+   "published": "2026-08-21T12:39:11.014Z"
   },
   {
    "id": "L1v-LzB7w4M",
@@ -314,7 +314,7 @@ window.LWF_DATA = {
    "title": "Learn Table of 5 Easily 😲 | 5 Times Table for Kids | Fun & Simple Multiplication 🎶",
    "duration": "0:33",
    "views": 21,
-   "published": "2026-05-22T02:10:11.899Z"
+   "published": "2026-04-23T12:39:11.014Z"
   },
   {
    "id": "3pqzn9CAmSs",
@@ -440,7 +440,7 @@ window.LWF_DATA = {
    "title": "Table of 3 for Kids | Easy Multiplication Practice",
    "duration": "1:13",
    "views": 47,
-   "published": "2026-04-22T02:10:11.899Z"
+   "published": "2026-03-24T12:39:11.014Z"
   },
   {
    "id": "P469rHWNnOY",
@@ -502,7 +502,7 @@ window.LWF_DATA = {
    "id": "nMNoMeLxDD4",
    "title": "ABC Phonics for Kids | Learn English Alphabet A–Z | Colorful Pictures",
    "duration": "3:04",
-   "views": 244,
+   "views": 245,
    "published": "2026-01-22T02:10:11.899Z"
   },
   {
@@ -919,12 +919,12 @@ window.LWF_DATA = {
   {
    "id": "ZXgw5x9cVIM",
    "title": "Learn 10 Kitchen Tools in 20 Seconds! 🍽️",
-   "views": 335
+   "views": 337
   },
   {
    "id": "zo1q-Uwo82U",
    "title": "10 Flower Names for Kids 🌼 #ShortsKids Learn Flower Names Fast 🌷",
-   "views": 399
+   "views": 398
   },
   {
    "id": "-1axwog-abc",
@@ -944,7 +944,7 @@ window.LWF_DATA = {
   {
    "id": "6ixyH-0sTgI",
    "title": "10 Fruits Name for Kids 🌈 #Shorts",
-   "views": 215
+   "views": 216
   },
   {
    "id": "hPXNze8y4zk",
@@ -1024,7 +1024,7 @@ window.LWF_DATA = {
   {
    "id": "Dr3UWgO42ZM",
    "title": "🌈✨ABC Challenge! Can You Say A to Z?",
-   "views": 866
+   "views": 867
   },
   {
    "id": "3XuL38zFzZ0",
@@ -1034,7 +1034,7 @@ window.LWF_DATA = {
   {
    "id": "evwyJ4KLTsM",
    "title": "Learn Counting 1 to 10 FAST 🚀 Fun Kids Learning",
-   "views": 457
+   "views": 461
   },
   {
    "id": "CK0bSk68kEE",
