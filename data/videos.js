@@ -1,5 +1,5 @@
 window.LWF_DATA = {
- "updated": "2026-11-18T20:50:53.442Z",
+ "updated": "2026-11-19T00:49:01.718Z",
  "videos": [
   {
    "id": "D7bjvibGS5Q",
@@ -474,7 +474,7 @@ window.LWF_DATA = {
    "id": "p1CC1QosPoM",
    "title": "Learn A to Z Phonics Song with Examples | A for Apple 🍏 B for Ball ⚽ Z for Zebra 🦓",
    "duration": "3:08",
-   "views": 226,
+   "views": 229,
    "published": "2026-01-22T02:10:11.899Z"
   },
   {
@@ -909,37 +909,37 @@ window.LWF_DATA = {
   {
    "id": "1D6zYyY8jxY",
    "title": "Easy Bird Names for Nursery & Preschool",
-   "views": 490
+   "views": 494
   },
   {
    "id": "73BUh52a03c",
    "title": "Learn 10 Games Names in 20 Seconds! 🎯",
-   "views": 483
+   "views": 489
   },
   {
    "id": "ZXgw5x9cVIM",
    "title": "Learn 10 Kitchen Tools in 20 Seconds! 🍽️",
-   "views": 331
+   "views": 335
   },
   {
    "id": "zo1q-Uwo82U",
    "title": "10 Flower Names for Kids 🌼 #ShortsKids Learn Flower Names Fast 🌷",
-   "views": 396
+   "views": 399
   },
   {
    "id": "-1axwog-abc",
    "title": "Learn 10 Transport Names in 20 Seconds! 🚀",
-   "views": 419
+   "views": 422
   },
   {
    "id": "fw1R5pvmCUo",
    "title": "Easy Vegetable Names for Nursery & Preschool",
-   "views": 269
+   "views": 271
   },
   {
    "id": "AdyD2JSRDE8",
    "title": "Animal Names for Kids | Fun Learning 🦒10 Animals Challenge for Kids 🐵",
-   "views": 248
+   "views": 249
   },
   {
    "id": "6ixyH-0sTgI",
@@ -949,7 +949,7 @@ window.LWF_DATA = {
   {
    "id": "hPXNze8y4zk",
    "title": "1 to 10 Number Counting | Preschool Learning #shorts",
-   "views": 647
+   "views": 648
   },
   {
    "id": "_trHKogRgcs",
@@ -959,12 +959,12 @@ window.LWF_DATA = {
   {
    "id": "g1zKZ-NZffA",
    "title": "Best Counting Video for Kids | 41–50",
-   "views": 187
+   "views": 188
   },
   {
    "id": "ejWG8GlKERc",
    "title": "(Topic) for Kids | Learning wiEasy Counting 81 to 90 for Preschool Kids",
-   "views": 205
+   "views": 206
   },
   {
    "id": "dh4gqwqBBiE",
