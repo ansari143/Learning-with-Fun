@@ -1,11 +1,11 @@
 window.LWF_DATA = {
- "updated": "2026-11-19T00:49:01.718Z",
+ "updated": "2026-11-19T06:43:30.917Z",
  "videos": [
   {
    "id": "D7bjvibGS5Q",
    "title": "Alphabet Learning with Quiz | Learning Video for Toddlers & Kids | 16 Minutes",
    "duration": "15:51",
-   "views": 7,
+   "views": 8,
    "published": "2026-11-17T14:49:42.867Z"
   },
   {
@@ -474,7 +474,7 @@ window.LWF_DATA = {
    "id": "p1CC1QosPoM",
    "title": "Learn A to Z Phonics Song with Examples | A for Apple 🍏 B for Ball ⚽ Z for Zebra 🦓",
    "duration": "3:08",
-   "views": 229,
+   "views": 233,
    "published": "2026-01-22T02:10:11.899Z"
   },
   {
@@ -579,7 +579,7 @@ window.LWF_DATA = {
    "id": "cJqUdCMH0y4",
    "title": "ABC Phonics Song for Kids | A to Z Alphabet Learning with Sounds & Words | Fun Preschool Education",
    "duration": "47:15",
-   "views": 461,
+   "views": 462,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -607,7 +607,7 @@ window.LWF_DATA = {
    "id": "JNjVufkl-0k",
    "title": "A to Z Phonics Song 🎵 Fun ABC Rhymes for Toddlers & Kids",
    "duration": "9:45",
-   "views": 757,
+   "views": 758,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -939,7 +939,7 @@ window.LWF_DATA = {
   {
    "id": "AdyD2JSRDE8",
    "title": "Animal Names for Kids | Fun Learning 🦒10 Animals Challenge for Kids 🐵",
-   "views": 249
+   "views": 248
   },
   {
    "id": "6ixyH-0sTgI",
@@ -949,7 +949,7 @@ window.LWF_DATA = {
   {
    "id": "hPXNze8y4zk",
    "title": "1 to 10 Number Counting | Preschool Learning #shorts",
-   "views": 648
+   "views": 650
   },
   {
    "id": "_trHKogRgcs",
@@ -1009,27 +1009,27 @@ window.LWF_DATA = {
   {
    "id": "YNM35H9iEYM",
    "title": "ABC Made Easy for Kids 🌈 | Learn Fast!",
-   "views": 854
+   "views": 855
   },
   {
    "id": "cD3eYzHSVaY",
    "title": "ABC Challenge! Can You Say A to Z? 🤩",
-   "views": 794
+   "views": 795
   },
   {
    "id": "XzQW4FMHiNU",
    "title": "A to Z Alphabet Song for Kids 🎵 Learn Fast!",
-   "views": 817
+   "views": 814
   },
   {
    "id": "Dr3UWgO42ZM",
    "title": "🌈✨ABC Challenge! Can You Say A to Z?",
-   "views": 867
+   "views": 866
   },
   {
    "id": "3XuL38zFzZ0",
    "title": "Kids Learn ABC Easily 😍 Fun Learning #shorts",
-   "views": 580
+   "views": 579
   },
   {
    "id": "evwyJ4KLTsM",
@@ -1674,7 +1674,7 @@ window.LWF_DATA = {
   {
    "id": "ZrSlJr-2QIM",
    "title": "Learn ABC with Countries Around the World! 🗺️ Fun Alphabet Song #abcsong #kidseducation",
-   "views": 239000
+   "views": 240000
   },
   {
    "id": "tsuWQIDk1cQ",
