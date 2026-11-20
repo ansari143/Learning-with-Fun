@@ -1,11 +1,11 @@
 window.LWF_DATA = {
- "updated": "2026-11-19T12:39:11.014Z",
+ "updated": "2026-11-20T00:47:45.321Z",
  "videos": [
   {
    "id": "D7bjvibGS5Q",
    "title": "Alphabet Learning with Quiz | Learning Video for Toddlers & Kids | 16 Minutes",
    "duration": "15:51",
-   "views": 8,
+   "views": 9,
    "published": "2026-11-17T14:49:42.867Z"
   },
   {
@@ -19,7 +19,7 @@ window.LWF_DATA = {
    "id": "AfcJYCWK5qU",
    "title": "Number Words 1 to 10 | Learn One to Ten Easily for Kids",
    "duration": "0:40",
-   "views": 39,
+   "views": 40,
    "published": "2026-08-21T12:39:11.014Z"
   },
   {
@@ -111,7 +111,7 @@ window.LWF_DATA = {
    "title": "A to Z in 15 Seconds 😲 | Learn ABCD Fast for Kids 🔥 #shorts",
    "duration": "1:31",
    "views": 19,
-   "published": "2026-06-20T23:29:51.042Z"
+   "published": "2026-05-24T00:47:45.321Z"
   },
   {
    "id": "TNJumKwZvmY",
@@ -502,7 +502,7 @@ window.LWF_DATA = {
    "id": "nMNoMeLxDD4",
    "title": "ABC Phonics for Kids | Learn English Alphabet A–Z | Colorful Pictures",
    "duration": "3:04",
-   "views": 245,
+   "views": 248,
    "published": "2026-01-22T02:10:11.899Z"
   },
   {
@@ -593,7 +593,7 @@ window.LWF_DATA = {
    "id": "CkTkAPNkVdQ",
    "title": "A to Z Countries ABC Phonics Song for Toddlers & Kids 🌎",
    "duration": "1:09",
-   "views": 904,
+   "views": 905,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -914,12 +914,12 @@ window.LWF_DATA = {
   {
    "id": "73BUh52a03c",
    "title": "Learn 10 Games Names in 20 Seconds! 🎯",
-   "views": 489
+   "views": 488
   },
   {
    "id": "ZXgw5x9cVIM",
    "title": "Learn 10 Kitchen Tools in 20 Seconds! 🍽️",
-   "views": 337
+   "views": 338
   },
   {
    "id": "zo1q-Uwo82U",
@@ -934,12 +934,12 @@ window.LWF_DATA = {
   {
    "id": "fw1R5pvmCUo",
    "title": "Easy Vegetable Names for Nursery & Preschool",
-   "views": 271
+   "views": 272
   },
   {
    "id": "AdyD2JSRDE8",
    "title": "Animal Names for Kids | Fun Learning 🦒10 Animals Challenge for Kids 🐵",
-   "views": 248
+   "views": 249
   },
   {
    "id": "6ixyH-0sTgI",
@@ -959,7 +959,7 @@ window.LWF_DATA = {
   {
    "id": "g1zKZ-NZffA",
    "title": "Best Counting Video for Kids | 41–50",
-   "views": 188
+   "views": 189
   },
   {
    "id": "ejWG8GlKERc",
@@ -989,7 +989,7 @@ window.LWF_DATA = {
   {
    "id": "m-WBSgAS28o",
    "title": "One to Ten Words in 20 Seconds! 🚀Learn Number Words 1–10 Easy for Kids 🌈",
-   "views": 413
+   "views": 417
   },
   {
    "id": "fmjKHiwxaHI",
@@ -999,7 +999,7 @@ window.LWF_DATA = {
   {
    "id": "P7cvi30GW_g",
    "title": "Best Counting Trick for Nursery Kids 😍",
-   "views": 616
+   "views": 617
   },
   {
    "id": "-T8pDI68vG4",
@@ -1144,12 +1144,12 @@ window.LWF_DATA = {
   {
    "id": "u8vwHdBQTac",
    "title": "Easy A to Z for Kids 👧🧒 Super Fast Learning ABC in One Minute 🚀 Fun Learning Trick",
-   "views": 364
+   "views": 365
   },
   {
    "id": "efkpjtoXa4s",
    "title": "ABC Magic Trick 🤯 Learn A to Z Super Fast!",
-   "views": 404
+   "views": 405
   },
   {
    "id": "5XRTKOxutKo",
@@ -1434,7 +1434,7 @@ window.LWF_DATA = {
   {
    "id": "OUzgIV7bJDI",
    "title": "Table of 5 in 15 Seconds 😲 | Learn 5 Times Table Fast 🔥 #shorts",
-   "views": 257
+   "views": 258
   },
   {
    "id": "-M8FC6AIPSs",
