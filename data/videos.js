@@ -1,11 +1,11 @@
 window.LWF_DATA = {
- "updated": "2026-11-20T06:42:49.554Z",
+ "updated": "2026-11-20T12:39:04.766Z",
  "videos": [
   {
    "id": "D7bjvibGS5Q",
    "title": "Alphabet Learning with Quiz | Learning Video for Toddlers & Kids | 16 Minutes",
    "duration": "15:51",
-   "views": 12,
+   "views": 15,
    "published": "2026-11-17T14:49:42.867Z"
   },
   {
@@ -307,7 +307,7 @@ window.LWF_DATA = {
    "title": "Learn Table of 2 Easily 😲 | 2 Times Table for Kids | Fun & Simple Multiplication 🎶",
    "duration": "0:47",
    "views": 23,
-   "published": "2026-05-22T02:10:11.899Z"
+   "published": "2026-04-24T12:39:04.766Z"
   },
   {
    "id": "F0wBanVcLAE",
@@ -502,7 +502,7 @@ window.LWF_DATA = {
    "id": "nMNoMeLxDD4",
    "title": "ABC Phonics for Kids | Learn English Alphabet A–Z | Colorful Pictures",
    "duration": "3:04",
-   "views": 248,
+   "views": 250,
    "published": "2026-01-22T02:10:11.899Z"
   },
   {
@@ -929,17 +929,17 @@ window.LWF_DATA = {
   {
    "id": "-1axwog-abc",
    "title": "Learn 10 Transport Names in 20 Seconds! 🚀",
-   "views": 422
+   "views": 426
   },
   {
    "id": "fw1R5pvmCUo",
    "title": "Easy Vegetable Names for Nursery & Preschool",
-   "views": 272
+   "views": 273
   },
   {
    "id": "AdyD2JSRDE8",
    "title": "Animal Names for Kids | Fun Learning 🦒10 Animals Challenge for Kids 🐵",
-   "views": 249
+   "views": 250
   },
   {
    "id": "6ixyH-0sTgI",
