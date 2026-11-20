@@ -1,11 +1,11 @@
 window.LWF_DATA = {
- "updated": "2026-11-20T00:47:45.321Z",
+ "updated": "2026-11-20T06:42:49.554Z",
  "videos": [
   {
    "id": "D7bjvibGS5Q",
    "title": "Alphabet Learning with Quiz | Learning Video for Toddlers & Kids | 16 Minutes",
    "duration": "15:51",
-   "views": 9,
+   "views": 12,
    "published": "2026-11-17T14:49:42.867Z"
   },
   {
@@ -495,7 +495,7 @@ window.LWF_DATA = {
    "id": "ERza69rtQYU",
    "title": "Counting Numbers 1 to 10 | Fun Learning Video for Kids 👶🔢",
    "duration": "0:58",
-   "views": 92,
+   "views": 93,
    "published": "2026-01-22T02:10:11.899Z"
   },
   {
@@ -949,7 +949,7 @@ window.LWF_DATA = {
   {
    "id": "hPXNze8y4zk",
    "title": "1 to 10 Number Counting | Preschool Learning #shorts",
-   "views": 650
+   "views": 652
   },
   {
    "id": "_trHKogRgcs",
@@ -989,7 +989,7 @@ window.LWF_DATA = {
   {
    "id": "m-WBSgAS28o",
    "title": "One to Ten Words in 20 Seconds! 🚀Learn Number Words 1–10 Easy for Kids 🌈",
-   "views": 417
+   "views": 423
   },
   {
    "id": "fmjKHiwxaHI",
@@ -999,7 +999,7 @@ window.LWF_DATA = {
   {
    "id": "P7cvi30GW_g",
    "title": "Best Counting Trick for Nursery Kids 😍",
-   "views": 617
+   "views": 621
   },
   {
    "id": "-T8pDI68vG4",
