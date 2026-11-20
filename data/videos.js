@@ -1,11 +1,18 @@
 window.LWF_DATA = {
- "updated": "2026-11-20T12:39:04.766Z",
+ "updated": "2026-11-20T18:36:56.673Z",
  "videos": [
+  {
+   "id": "zwyrgcATbBA",
+   "title": "Learn to Count with Fun Objects | Learning Video for Toddlers & Kids | 15 Minutes",
+   "duration": "15:15",
+   "views": 4,
+   "published": "2026-11-20T14:36:56.673Z"
+  },
   {
    "id": "D7bjvibGS5Q",
    "title": "Alphabet Learning with Quiz | Learning Video for Toddlers & Kids | 16 Minutes",
    "duration": "15:51",
-   "views": 15,
+   "views": 17,
    "published": "2026-11-17T14:49:42.867Z"
   },
   {
@@ -104,7 +111,7 @@ window.LWF_DATA = {
    "title": "Learn Table of 7 FAST 😲 | 7 Times Table Easy Trick for Kids 🔥 (New Method)",
    "duration": "0:36",
    "views": 20,
-   "published": "2026-07-20T23:29:51.042Z"
+   "published": "2026-06-23T18:36:56.673Z"
   },
   {
    "id": "7pK6-i_spGA",
@@ -285,7 +292,7 @@ window.LWF_DATA = {
    "id": "XUBXskjDM5Y",
    "title": "Learn Number 5 for Kids 😲 | Counting & Writing Number 5 | Fun Learning Video 🎶",
    "duration": "0:32",
-   "views": 19,
+   "views": 20,
    "published": "2026-05-22T02:10:11.899Z"
   },
   {
@@ -579,7 +586,7 @@ window.LWF_DATA = {
    "id": "cJqUdCMH0y4",
    "title": "ABC Phonics Song for Kids | A to Z Alphabet Learning with Sounds & Words | Fun Preschool Education",
    "duration": "47:15",
-   "views": 462,
+   "views": 465,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -684,7 +691,7 @@ window.LWF_DATA = {
    "id": "5ITpFQOohp8",
    "title": "Learning the Letter U to Z Is Actually Really Fun for Kids 🎶🧠",
    "duration": "1:34",
-   "views": 625,
+   "views": 627,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -934,7 +941,7 @@ window.LWF_DATA = {
   {
    "id": "fw1R5pvmCUo",
    "title": "Easy Vegetable Names for Nursery & Preschool",
-   "views": 273
+   "views": 274
   },
   {
    "id": "AdyD2JSRDE8",
@@ -954,7 +961,7 @@ window.LWF_DATA = {
   {
    "id": "_trHKogRgcs",
    "title": "91 to 100 Counting Made Easy | Nursery & Kindergarten Learning",
-   "views": 165
+   "views": 166
   },
   {
    "id": "g1zKZ-NZffA",
@@ -979,7 +986,7 @@ window.LWF_DATA = {
   {
    "id": "DnotY1uaMkk",
    "title": "11 to 20 Counting Made Easy 🌈 #shorts",
-   "views": 249
+   "views": 250
   },
   {
    "id": "6eBar-7udkg",
@@ -1204,7 +1211,7 @@ window.LWF_DATA = {
   {
    "id": "t4gFKW8lCK0",
    "title": "Table of 3 FAST 😲 | Learn 3 Times Table Easy 🔥 #shorts",
-   "views": 374
+   "views": 376
   },
   {
    "id": "b2oHPd5qYhU",
@@ -1224,7 +1231,7 @@ window.LWF_DATA = {
   {
    "id": "-Dc008xTFw4",
    "title": "Tables 1 to 10 in Minutes 😲 | Learn Multiplication FAST for Kids 🔥 #shorts",
-   "views": 379
+   "views": 380
   },
   {
    "id": "cf00ArUw41w",
@@ -1234,22 +1241,22 @@ window.LWF_DATA = {
   {
    "id": "doobEb5tNHI",
    "title": "Table of 2 in 10 Seconds 😲 | Learn 2 Times Table FAST 🔥 #shorts",
-   "views": 254
+   "views": 255
   },
   {
    "id": "ojaaYO-4chA",
    "title": "Table of 5 in 10 Seconds 😲 | Learn 5 Times Table FAST 🔥 #shorts",
-   "views": 207
+   "views": 210
   },
   {
    "id": "HZq6yuWkB50",
    "title": "Table of 6 in 15 Seconds 😲 | Learn 6 Times Table FAST 🔥 #shorts",
-   "views": 294
+   "views": 319
   },
   {
    "id": "kzSfg6rLGtU",
    "title": "Learn Table of 5 FAST 😲 | 5 Times Table Trick in 10 Sec 🔥 #shorts",
-   "views": 246
+   "views": 251
   },
   {
    "id": "z7J_7vI7Ybw",
@@ -1259,12 +1266,12 @@ window.LWF_DATA = {
   {
    "id": "7H2qeppD-9w",
    "title": "Learn Table of 3 FAST 😲 | 3 Times Table Trick in 15 Sec 🔥 #shorts",
-   "views": 269
+   "views": 270
   },
   {
    "id": "TmVCimDtSLU",
    "title": "Learn Table of 7 FAST 😲 | 7 Times Table Trick in 15 Sec 🔥 #shorts",
-   "views": 334
+   "views": 337
   },
   {
    "id": "r-OKRsbkO-s",
