@@ -1,5 +1,5 @@
 window.LWF_DATA = {
- "updated": "2026-11-21T18:36:43.558Z",
+ "updated": "2026-11-22T00:50:39.451Z",
  "videos": [
   {
    "id": "zwyrgcATbBA",
@@ -12,7 +12,7 @@ window.LWF_DATA = {
    "id": "D7bjvibGS5Q",
    "title": "Alphabet Learning with Quiz | Learning Video for Toddlers & Kids | 16 Minutes",
    "duration": "15:51",
-   "views": 35,
+   "views": 39,
    "published": "2026-11-17T14:49:42.867Z"
   },
   {
@@ -926,7 +926,7 @@ window.LWF_DATA = {
   {
    "id": "ZXgw5x9cVIM",
    "title": "Learn 10 Kitchen Tools in 20 Seconds! 🍽️",
-   "views": 340
+   "views": 341
   },
   {
    "id": "zo1q-Uwo82U",
@@ -1366,7 +1366,7 @@ window.LWF_DATA = {
   {
    "id": "tBfRMjNOp4k",
    "title": "Table of 4 in 20 Seconds 😲 | Learn 4 Times Table Fast 🔥 #shorts",
-   "views": 388
+   "views": 385
   },
   {
    "id": "U-X4M40aXpE",
@@ -1386,7 +1386,7 @@ window.LWF_DATA = {
   {
    "id": "sJhWBG5xkPY",
    "title": "Learn Table of 4 FAST 😲 | 4 Times Table Trick in 15 Sec 🔥 #shorts",
-   "views": 435
+   "views": 436
   },
   {
    "id": "gVE9yHcMyf8",
@@ -1431,7 +1431,7 @@ window.LWF_DATA = {
   {
    "id": "IludAx6u_Kc",
    "title": "Table of 2 in 15 Seconds 😲 | Learn 2 Times Table Fast 🔥 #shorts",
-   "views": 240
+   "views": 241
   },
   {
    "id": "dMUf5IV6aFo",
