@@ -1,5 +1,5 @@
 window.LWF_DATA = {
- "updated": "2026-11-22T06:41:00.895Z",
+ "updated": "2026-11-22T12:36:38.677Z",
  "videos": [
   {
    "id": "zwyrgcATbBA",
@@ -12,7 +12,7 @@ window.LWF_DATA = {
    "id": "D7bjvibGS5Q",
    "title": "Alphabet Learning with Quiz | Learning Video for Toddlers & Kids | 16 Minutes",
    "duration": "15:51",
-   "views": 39,
+   "views": 42,
    "published": "2026-11-17T14:49:42.867Z"
   },
   {
@@ -83,7 +83,7 @@ window.LWF_DATA = {
    "title": "Table of 7 FAST 😲 | Learn 7 Times Table Easy for Kids 🔥 (Step-by-Step)",
    "duration": "0:43",
    "views": 11,
-   "published": "2026-08-19T23:29:51.042Z"
+   "published": "2026-07-25T12:36:38.677Z"
   },
   {
    "id": "7vRyU0ZwF8w",
@@ -300,7 +300,7 @@ window.LWF_DATA = {
    "title": "able of 6 in 6 Minutes 😲 | Learn 6 Times Table Fast & Easy 🔥 | Kids Learning",
    "duration": "0:38",
    "views": 15,
-   "published": "2026-05-22T02:10:11.899Z"
+   "published": "2026-04-26T12:36:38.677Z"
   },
   {
    "id": "51BdidAsb3U",
@@ -859,7 +859,7 @@ window.LWF_DATA = {
    "id": "MD6gX4w5ER4",
    "title": "Learning Colors - Colorful Song for Kids",
    "duration": "1:39",
-   "views": 239,
+   "views": 241,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
