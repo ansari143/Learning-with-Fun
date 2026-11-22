@@ -1,5 +1,5 @@
 window.LWF_DATA = {
- "updated": "2026-11-22T00:50:39.451Z",
+ "updated": "2026-11-22T06:41:00.895Z",
  "videos": [
   {
    "id": "zwyrgcATbBA",
@@ -926,7 +926,7 @@ window.LWF_DATA = {
   {
    "id": "ZXgw5x9cVIM",
    "title": "Learn 10 Kitchen Tools in 20 Seconds! 🍽️",
-   "views": 341
+   "views": 343
   },
   {
    "id": "zo1q-Uwo82U",
@@ -1426,7 +1426,7 @@ window.LWF_DATA = {
   {
    "id": "YiKUxRL2NEo",
    "title": "Table of 5 in 10 Seconds 😲 | Learn 5 Times Table FAST 🔥 #shorts",
-   "views": 297
+   "views": 298
   },
   {
    "id": "IludAx6u_Kc",
@@ -1436,7 +1436,7 @@ window.LWF_DATA = {
   {
    "id": "dMUf5IV6aFo",
    "title": "Table of 4 in 20 Seconds 😲 | Learn 4 Times Table Fast 🔥 #shorts",
-   "views": 240
+   "views": 241
   },
   {
    "id": "OUzgIV7bJDI",
