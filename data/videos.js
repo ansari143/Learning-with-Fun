@@ -1,5 +1,5 @@
 window.LWF_DATA = {
- "updated": "2026-11-22T12:36:38.677Z",
+ "updated": "2026-11-22T18:36:47.844Z",
  "videos": [
   {
    "id": "zwyrgcATbBA",
@@ -474,7 +474,7 @@ window.LWF_DATA = {
    "id": "DQC_Ymtt51E",
    "title": "Counting 1 to 10 for Kids 🔢 | Learn Numbers Fast (Repeat 3 Times) | Learning with Fun 🌈✨",
    "duration": "1:55",
-   "views": 117,
+   "views": 118,
    "published": "2026-02-21T02:10:11.899Z"
   },
   {
@@ -976,7 +976,7 @@ window.LWF_DATA = {
   {
    "id": "dh4gqwqBBiE",
    "title": "Easy Counting 31 to 40 for Preschool Kids",
-   "views": 250
+   "views": 251
   },
   {
    "id": "6ujXmbwtdoo",
@@ -1006,12 +1006,12 @@ window.LWF_DATA = {
   {
    "id": "P7cvi30GW_g",
    "title": "Best Counting Trick for Nursery Kids 😍",
-   "views": 629
+   "views": 630
   },
   {
    "id": "-T8pDI68vG4",
    "title": "Table of 2 in 15 Seconds! 🤩",
-   "views": 618
+   "views": 619
   },
   {
    "id": "YNM35H9iEYM",
@@ -1041,7 +1041,7 @@ window.LWF_DATA = {
   {
    "id": "evwyJ4KLTsM",
    "title": "Learn Counting 1 to 10 FAST 🚀 Fun Kids Learning",
-   "views": 473
+   "views": 474
   },
   {
    "id": "CK0bSk68kEE",
@@ -1426,7 +1426,7 @@ window.LWF_DATA = {
   {
    "id": "YiKUxRL2NEo",
    "title": "Table of 5 in 10 Seconds 😲 | Learn 5 Times Table FAST 🔥 #shorts",
-   "views": 298
+   "views": 299
   },
   {
    "id": "IludAx6u_Kc",
@@ -1436,7 +1436,7 @@ window.LWF_DATA = {
   {
    "id": "dMUf5IV6aFo",
    "title": "Table of 4 in 20 Seconds 😲 | Learn 4 Times Table Fast 🔥 #shorts",
-   "views": 241
+   "views": 242
   },
   {
    "id": "OUzgIV7bJDI",
