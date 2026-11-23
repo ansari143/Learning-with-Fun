@@ -1,5 +1,5 @@
 window.LWF_DATA = {
- "updated": "2026-11-22T18:36:47.844Z",
+ "updated": "2026-11-23T00:52:09.733Z",
  "videos": [
   {
    "id": "zwyrgcATbBA",
@@ -691,7 +691,7 @@ window.LWF_DATA = {
    "id": "5ITpFQOohp8",
    "title": "Learning the Letter U to Z Is Actually Really Fun for Kids 🎶🧠",
    "duration": "1:34",
-   "views": 627,
+   "views": 629,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -921,12 +921,12 @@ window.LWF_DATA = {
   {
    "id": "73BUh52a03c",
    "title": "Learn 10 Games Names in 20 Seconds! 🎯",
-   "views": 494
+   "views": 495
   },
   {
    "id": "ZXgw5x9cVIM",
    "title": "Learn 10 Kitchen Tools in 20 Seconds! 🍽️",
-   "views": 343
+   "views": 346
   },
   {
    "id": "zo1q-Uwo82U",
@@ -941,12 +941,12 @@ window.LWF_DATA = {
   {
    "id": "fw1R5pvmCUo",
    "title": "Easy Vegetable Names for Nursery & Preschool",
-   "views": 277
+   "views": 278
   },
   {
    "id": "AdyD2JSRDE8",
    "title": "Animal Names for Kids | Fun Learning 🦒10 Animals Challenge for Kids 🐵",
-   "views": 255
+   "views": 254
   },
   {
    "id": "6ixyH-0sTgI",
@@ -956,7 +956,7 @@ window.LWF_DATA = {
   {
    "id": "hPXNze8y4zk",
    "title": "1 to 10 Number Counting | Preschool Learning #shorts",
-   "views": 658
+   "views": 661
   },
   {
    "id": "_trHKogRgcs",
