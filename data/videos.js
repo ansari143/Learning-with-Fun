@@ -1,18 +1,18 @@
 window.LWF_DATA = {
- "updated": "2026-11-23T06:52:18.193Z",
+ "updated": "2026-11-23T12:40:44.355Z",
  "videos": [
   {
    "id": "zwyrgcATbBA",
    "title": "Learn to Count with Fun Objects | Learning Video for Toddlers & Kids | 15 Minutes",
    "duration": "15:15",
-   "views": 6,
+   "views": 7,
    "published": "2026-11-20T14:36:00.074Z"
   },
   {
    "id": "D7bjvibGS5Q",
    "title": "Alphabet Learning with Quiz | Learning Video for Toddlers & Kids | 16 Minutes",
    "duration": "15:51",
-   "views": 43,
+   "views": 45,
    "published": "2026-11-17T14:49:42.867Z"
   },
   {
@@ -293,7 +293,7 @@ window.LWF_DATA = {
    "title": "Learn Number 5 for Kids 😲 | Counting & Writing Number 5 | Fun Learning Video 🎶",
    "duration": "0:32",
    "views": 20,
-   "published": "2026-05-22T02:10:11.899Z"
+   "published": "2026-04-27T12:40:44.355Z"
   },
   {
    "id": "28ltW5M7His",
@@ -440,7 +440,7 @@ window.LWF_DATA = {
    "title": "Learn Table of 5 Fast | 5 Times Table for Kids",
    "duration": "1:03",
    "views": 52,
-   "published": "2026-04-22T02:10:11.899Z"
+   "published": "2026-03-28T12:40:44.355Z"
   },
   {
    "id": "cbDZqTkxAfs",
@@ -916,7 +916,7 @@ window.LWF_DATA = {
   {
    "id": "1D6zYyY8jxY",
    "title": "Easy Bird Names for Nursery & Preschool",
-   "views": 503
+   "views": 504
   },
   {
    "id": "73BUh52a03c",
