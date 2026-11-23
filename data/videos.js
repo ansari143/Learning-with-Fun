@@ -1,5 +1,5 @@
 window.LWF_DATA = {
- "updated": "2026-11-23T00:52:09.733Z",
+ "updated": "2026-11-23T06:52:18.193Z",
  "videos": [
   {
    "id": "zwyrgcATbBA",
@@ -12,7 +12,7 @@ window.LWF_DATA = {
    "id": "D7bjvibGS5Q",
    "title": "Alphabet Learning with Quiz | Learning Video for Toddlers & Kids | 16 Minutes",
    "duration": "15:51",
-   "views": 42,
+   "views": 43,
    "published": "2026-11-17T14:49:42.867Z"
   },
   {
@@ -586,7 +586,7 @@ window.LWF_DATA = {
    "id": "cJqUdCMH0y4",
    "title": "ABC Phonics Song for Kids | A to Z Alphabet Learning with Sounds & Words | Fun Preschool Education",
    "duration": "47:15",
-   "views": 465,
+   "views": 468,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -600,7 +600,7 @@ window.LWF_DATA = {
    "id": "CkTkAPNkVdQ",
    "title": "A to Z Countries ABC Phonics Song for Toddlers & Kids 🌎",
    "duration": "1:09",
-   "views": 904,
+   "views": 907,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -859,7 +859,7 @@ window.LWF_DATA = {
    "id": "MD6gX4w5ER4",
    "title": "Learning Colors - Colorful Song for Kids",
    "duration": "1:39",
-   "views": 241,
+   "views": 242,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
