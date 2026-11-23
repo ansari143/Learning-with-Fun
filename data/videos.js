@@ -1,18 +1,18 @@
 window.LWF_DATA = {
- "updated": "2026-11-23T12:40:44.355Z",
+ "updated": "2026-11-23T18:36:58.393Z",
  "videos": [
   {
    "id": "zwyrgcATbBA",
    "title": "Learn to Count with Fun Objects | Learning Video for Toddlers & Kids | 15 Minutes",
    "duration": "15:15",
-   "views": 7,
+   "views": 8,
    "published": "2026-11-20T14:36:00.074Z"
   },
   {
    "id": "D7bjvibGS5Q",
    "title": "Alphabet Learning with Quiz | Learning Video for Toddlers & Kids | 16 Minutes",
    "duration": "15:51",
-   "views": 45,
+   "views": 44,
    "published": "2026-11-17T14:49:42.867Z"
   },
   {
@@ -76,7 +76,7 @@ window.LWF_DATA = {
    "title": "Learn Table of 2 FAST 😲 | 2 Times Table Easy Trick for Kids 🔥 (New Method)",
    "duration": "0:38",
    "views": 20,
-   "published": "2026-08-19T23:29:51.042Z"
+   "published": "2026-07-26T18:36:58.393Z"
   },
   {
    "id": "VjR_StfsbgM",
@@ -509,7 +509,7 @@ window.LWF_DATA = {
    "id": "nMNoMeLxDD4",
    "title": "ABC Phonics for Kids | Learn English Alphabet A–Z | Colorful Pictures",
    "duration": "3:04",
-   "views": 250,
+   "views": 252,
    "published": "2026-01-22T02:10:11.899Z"
   },
   {
@@ -600,7 +600,7 @@ window.LWF_DATA = {
    "id": "CkTkAPNkVdQ",
    "title": "A to Z Countries ABC Phonics Song for Toddlers & Kids 🌎",
    "duration": "1:09",
-   "views": 907,
+   "views": 905,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -691,7 +691,7 @@ window.LWF_DATA = {
    "id": "5ITpFQOohp8",
    "title": "Learning the Letter U to Z Is Actually Really Fun for Kids 🎶🧠",
    "duration": "1:34",
-   "views": 629,
+   "views": 630,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -916,7 +916,7 @@ window.LWF_DATA = {
   {
    "id": "1D6zYyY8jxY",
    "title": "Easy Bird Names for Nursery & Preschool",
-   "views": 504
+   "views": 503
   },
   {
    "id": "73BUh52a03c",
@@ -1006,7 +1006,7 @@ window.LWF_DATA = {
   {
    "id": "P7cvi30GW_g",
    "title": "Best Counting Trick for Nursery Kids 😍",
-   "views": 630
+   "views": 631
   },
   {
    "id": "-T8pDI68vG4",
