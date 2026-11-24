@@ -1,12 +1,12 @@
 window.LWF_DATA = {
- "updated": "2026-11-24T00:45:32.590Z",
+ "updated": "2026-11-24T06:43:59.562Z",
  "videos": [
   {
    "id": "lU_z1w0u3j0",
    "title": "Learn Colors for Toddlers | Learning Video for Toddlers & Kids | 16 Minutes",
    "duration": "15:49",
-   "views": 0,
-   "published": "2026-11-23T21:45:32.590Z"
+   "views": 3,
+   "published": "2026-11-23T21:43:59.562Z"
   },
   {
    "id": "zwyrgcATbBA",
@@ -19,7 +19,7 @@ window.LWF_DATA = {
    "id": "D7bjvibGS5Q",
    "title": "Alphabet Learning with Quiz | Learning Video for Toddlers & Kids | 16 Minutes",
    "duration": "15:51",
-   "views": 44,
+   "views": 48,
    "published": "2026-11-17T14:49:42.867Z"
   },
   {
@@ -516,7 +516,7 @@ window.LWF_DATA = {
    "id": "nMNoMeLxDD4",
    "title": "ABC Phonics for Kids | Learn English Alphabet A–Z | Colorful Pictures",
    "duration": "3:04",
-   "views": 252,
+   "views": 256,
    "published": "2026-01-22T02:10:11.899Z"
   },
   {
@@ -928,7 +928,7 @@ window.LWF_DATA = {
   {
    "id": "73BUh52a03c",
    "title": "Learn 10 Games Names in 20 Seconds! 🎯",
-   "views": 498
+   "views": 500
   },
   {
    "id": "ZXgw5x9cVIM",
@@ -1023,7 +1023,7 @@ window.LWF_DATA = {
   {
    "id": "YNM35H9iEYM",
    "title": "ABC Made Easy for Kids 🌈 | Learn Fast!",
-   "views": 862
+   "views": 863
   },
   {
    "id": "cD3eYzHSVaY",
@@ -1078,12 +1078,12 @@ window.LWF_DATA = {
   {
    "id": "czqY52SZHCs",
    "title": "ABC in One Minute 🚀 Trending Learning Trick",
-   "views": 735
+   "views": 738
   },
   {
    "id": "cShVmZDQa2U",
    "title": "Learn ABC FAST 🚀 Easy A to Z for Kids",
-   "views": 649
+   "views": 650
   },
   {
    "id": "EEtn2x_eTUA",
@@ -1318,12 +1318,12 @@ window.LWF_DATA = {
   {
    "id": "ULZc_PwpA14",
    "title": "1 to 10 in 10 Seconds 😲 | Learn Counting FAST 🔥 #shorts",
-   "views": 568
+   "views": 569
   },
   {
    "id": "-LpRp4mmpI8",
    "title": "Table of 5 Easy Trick 😲 | Learn 5 Times Table Fast for Kids 🔥 (Step-by-Step Method)",
-   "views": 357
+   "views": 358
   },
   {
    "id": "eD_V8yg-0gg",
