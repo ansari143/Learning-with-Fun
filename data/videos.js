@@ -1,11 +1,18 @@
 window.LWF_DATA = {
- "updated": "2026-11-23T18:36:58.393Z",
+ "updated": "2026-11-24T00:45:32.590Z",
  "videos": [
+  {
+   "id": "lU_z1w0u3j0",
+   "title": "Learn Colors for Toddlers | Learning Video for Toddlers & Kids | 16 Minutes",
+   "duration": "15:49",
+   "views": 0,
+   "published": "2026-11-23T21:45:32.590Z"
+  },
   {
    "id": "zwyrgcATbBA",
    "title": "Learn to Count with Fun Objects | Learning Video for Toddlers & Kids | 15 Minutes",
    "duration": "15:15",
-   "views": 8,
+   "views": 11,
    "published": "2026-11-20T14:36:00.074Z"
   },
   {
@@ -916,12 +923,12 @@ window.LWF_DATA = {
   {
    "id": "1D6zYyY8jxY",
    "title": "Easy Bird Names for Nursery & Preschool",
-   "views": 503
+   "views": 504
   },
   {
    "id": "73BUh52a03c",
    "title": "Learn 10 Games Names in 20 Seconds! 🎯",
-   "views": 495
+   "views": 498
   },
   {
    "id": "ZXgw5x9cVIM",
@@ -1006,7 +1013,7 @@ window.LWF_DATA = {
   {
    "id": "P7cvi30GW_g",
    "title": "Best Counting Trick for Nursery Kids 😍",
-   "views": 631
+   "views": 632
   },
   {
    "id": "-T8pDI68vG4",
@@ -1681,7 +1688,7 @@ window.LWF_DATA = {
   {
    "id": "ZrSlJr-2QIM",
    "title": "Learn ABC with Countries Around the World! 🗺️ Fun Alphabet Song #abcsong #kidseducation",
-   "views": 240000
+   "views": 241000
   },
   {
    "id": "tsuWQIDk1cQ",
