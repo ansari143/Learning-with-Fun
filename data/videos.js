@@ -1,12 +1,12 @@
 window.LWF_DATA = {
- "updated": "2026-11-24T06:43:59.562Z",
+ "updated": "2026-11-24T12:40:10.669Z",
  "videos": [
   {
    "id": "lU_z1w0u3j0",
    "title": "Learn Colors for Toddlers | Learning Video for Toddlers & Kids | 16 Minutes",
    "duration": "15:49",
    "views": 3,
-   "published": "2026-11-23T21:43:59.562Z"
+   "published": "2026-11-23T21:40:10.669Z"
   },
   {
    "id": "zwyrgcATbBA",
@@ -76,7 +76,7 @@ window.LWF_DATA = {
    "title": "Learn Table of 4 FAST 😲 | 4 Times Table Easy Trick for Kids 🔥 (New Method)",
    "duration": "0:37",
    "views": 18,
-   "published": "2026-08-19T23:29:51.042Z"
+   "published": "2026-07-27T12:40:10.669Z"
   },
   {
    "id": "9lhdEtQTJSw",
@@ -293,7 +293,7 @@ window.LWF_DATA = {
    "title": "2 Multiplication Table for Kids 😲 | Learn Table of 2 Easy Way | Fun Learning 🎶",
    "duration": "0:43",
    "views": 20,
-   "published": "2026-05-22T02:10:11.899Z"
+   "published": "2026-04-28T12:40:10.669Z"
   },
   {
    "id": "XUBXskjDM5Y",
@@ -1283,7 +1283,7 @@ window.LWF_DATA = {
   {
    "id": "r-OKRsbkO-s",
    "title": "Table of 4 in 15 Seconds 😲 | Learn 4 Times Table FAST 🔥 #shorts",
-   "views": 304
+   "views": 307
   },
   {
    "id": "qDOIZsUK2hA",
