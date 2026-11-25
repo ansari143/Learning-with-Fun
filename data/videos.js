@@ -1,5 +1,5 @@
 window.LWF_DATA = {
- "updated": "2026-11-25T06:45:24.978Z",
+ "updated": "2026-11-25T12:40:54.982Z",
  "videos": [
   {
    "id": "lU_z1w0u3j0",
@@ -69,7 +69,7 @@ window.LWF_DATA = {
    "title": "Table of 4 Easy Trick 😲 | Learn 4 Times Table Fast for Kids 🔥 (Step-by-Step Method)",
    "duration": "1:03",
    "views": 33,
-   "published": "2026-08-19T23:29:51.042Z"
+   "published": "2026-07-28T12:40:54.982Z"
   },
   {
    "id": "vqB0F3MJWmA",
@@ -286,7 +286,7 @@ window.LWF_DATA = {
    "title": "Learn Table of 7 Easily 😲 | 7 Times Table for Kids | Fun & Simple Multiplication 🎶",
    "duration": "0:39",
    "views": 14,
-   "published": "2026-05-22T02:10:11.899Z"
+   "published": "2026-04-29T12:40:54.982Z"
   },
   {
    "id": "rW1rRb9GVjw",
@@ -516,7 +516,7 @@ window.LWF_DATA = {
    "id": "nMNoMeLxDD4",
    "title": "ABC Phonics for Kids | Learn English Alphabet A–Z | Colorful Pictures",
    "duration": "3:04",
-   "views": 254,
+   "views": 255,
    "published": "2026-01-22T02:10:11.899Z"
   },
   {
@@ -923,7 +923,7 @@ window.LWF_DATA = {
   {
    "id": "1D6zYyY8jxY",
    "title": "Easy Bird Names for Nursery & Preschool",
-   "views": 505
+   "views": 506
   },
   {
    "id": "73BUh52a03c",
@@ -1013,7 +1013,7 @@ window.LWF_DATA = {
   {
    "id": "P7cvi30GW_g",
    "title": "Best Counting Trick for Nursery Kids 😍",
-   "views": 635
+   "views": 637
   },
   {
    "id": "-T8pDI68vG4",
