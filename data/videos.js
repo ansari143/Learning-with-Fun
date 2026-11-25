@@ -1,5 +1,5 @@
 window.LWF_DATA = {
- "updated": "2026-11-25T00:50:10.906Z",
+ "updated": "2026-11-25T06:45:24.978Z",
  "videos": [
   {
    "id": "lU_z1w0u3j0",
@@ -586,7 +586,7 @@ window.LWF_DATA = {
    "id": "9kCn47h_V9Q",
    "title": "ABC Phonics Song for Kids | A to Z Alphabet Learning with Fun Rhymes & Sounds",
    "duration": "5:04",
-   "views": 501,
+   "views": 502,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -684,7 +684,7 @@ window.LWF_DATA = {
    "id": "5zomT42_p98",
    "title": "Best ABC Alphabet Learning for Kids | A to Z Alphabet Song with Pictures & Sounds",
    "duration": "7:51",
-   "views": 696,
+   "views": 697,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -873,7 +873,7 @@ window.LWF_DATA = {
    "id": "BRnfmslopxE",
    "title": "Fun with Shapes! Learning Shapes for Kids",
    "duration": "1:30",
-   "views": 372,
+   "views": 373,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -1068,27 +1068,27 @@ window.LWF_DATA = {
   {
    "id": "xFtEi5I-32I",
    "title": "ABC Magic Trick 🤯 Learn A to Z Super Fast!",
-   "views": 746
+   "views": 747
   },
   {
    "id": "dZNN3pRMaF0",
    "title": "Table of 7 FAST 😲 | Learn 7 Times Table Easy 🔥 #shorts",
-   "views": 498
+   "views": 499
   },
   {
    "id": "czqY52SZHCs",
    "title": "ABC in One Minute 🚀 Trending Learning Trick",
-   "views": 739
+   "views": 740
   },
   {
    "id": "cShVmZDQa2U",
    "title": "Learn ABC FAST 🚀 Easy A to Z for Kids",
-   "views": 653
+   "views": 655
   },
   {
    "id": "EEtn2x_eTUA",
    "title": "Learn 2 Table Without Mistakes 🔥 Viral Shorts",
-   "views": 433
+   "views": 434
   },
   {
    "id": "xptg3-3l1LY",
@@ -1573,7 +1573,7 @@ window.LWF_DATA = {
   {
    "id": "545NbUFt-7g",
    "title": "A for Apple 🍎 B for Ball ⚽ | Kids ABC Song",
-   "views": 4200
+   "views": 4300
   },
   {
    "id": "Mjm3lu8yhQM",
