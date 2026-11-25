@@ -1,5 +1,5 @@
 window.LWF_DATA = {
- "updated": "2026-11-25T12:40:54.982Z",
+ "updated": "2026-11-25T18:36:43.998Z",
  "videos": [
   {
    "id": "lU_z1w0u3j0",
@@ -26,7 +26,7 @@ window.LWF_DATA = {
    "id": "lTQFVf6uJu4",
    "title": "12 Months of the Year | January to December for KidsLearn Month Names in English",
    "duration": "0:33",
-   "views": 62,
+   "views": 64,
    "published": "2026-08-23T06:40:31.903Z"
   },
   {
@@ -509,7 +509,7 @@ window.LWF_DATA = {
    "id": "ERza69rtQYU",
    "title": "Counting Numbers 1 to 10 | Fun Learning Video for Kids 👶🔢",
    "duration": "0:58",
-   "views": 93,
+   "views": 94,
    "published": "2026-01-22T02:10:11.899Z"
   },
   {
@@ -530,7 +530,7 @@ window.LWF_DATA = {
    "id": "PMsl7CDL-Io",
    "title": "Discover Delicious Produce with the Vegetable Song for Kids | Sing and Learn!",
    "duration": "2:17",
-   "views": 128,
+   "views": 129,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -607,7 +607,7 @@ window.LWF_DATA = {
    "id": "CkTkAPNkVdQ",
    "title": "A to Z Countries ABC Phonics Song for Toddlers & Kids 🌎",
    "duration": "1:09",
-   "views": 905,
+   "views": 908,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -873,7 +873,7 @@ window.LWF_DATA = {
    "id": "BRnfmslopxE",
    "title": "Fun with Shapes! Learning Shapes for Kids",
    "duration": "1:30",
-   "views": 373,
+   "views": 374,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -928,7 +928,7 @@ window.LWF_DATA = {
   {
    "id": "73BUh52a03c",
    "title": "Learn 10 Games Names in 20 Seconds! 🎯",
-   "views": 501
+   "views": 502
   },
   {
    "id": "ZXgw5x9cVIM",
@@ -1028,7 +1028,7 @@ window.LWF_DATA = {
   {
    "id": "cD3eYzHSVaY",
    "title": "ABC Challenge! Can You Say A to Z? 🤩",
-   "views": 803
+   "views": 804
   },
   {
    "id": "XzQW4FMHiNU",
@@ -1283,7 +1283,7 @@ window.LWF_DATA = {
   {
    "id": "r-OKRsbkO-s",
    "title": "Table of 4 in 15 Seconds 😲 | Learn 4 Times Table FAST 🔥 #shorts",
-   "views": 308
+   "views": 309
   },
   {
    "id": "qDOIZsUK2hA",
@@ -1523,7 +1523,7 @@ window.LWF_DATA = {
   {
    "id": "bOGx80N8Ag0",
    "title": "Duck Says Quack 🦆 | Animal Sound Song for Kids",
-   "views": 1900
+   "views": 1800
   },
   {
    "id": "NFNZxf8IdJ8",
