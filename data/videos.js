@@ -1,5 +1,5 @@
 window.LWF_DATA = {
- "updated": "2026-11-24T18:36:31.102Z",
+ "updated": "2026-11-25T00:50:10.906Z",
  "videos": [
   {
    "id": "lU_z1w0u3j0",
@@ -12,7 +12,7 @@ window.LWF_DATA = {
    "id": "zwyrgcATbBA",
    "title": "Learn to Count with Fun Objects | Learning Video for Toddlers & Kids | 15 Minutes",
    "duration": "15:15",
-   "views": 11,
+   "views": 12,
    "published": "2026-11-20T14:36:00.074Z"
   },
   {
@@ -516,7 +516,7 @@ window.LWF_DATA = {
    "id": "nMNoMeLxDD4",
    "title": "ABC Phonics for Kids | Learn English Alphabet A–Z | Colorful Pictures",
    "duration": "3:04",
-   "views": 253,
+   "views": 254,
    "published": "2026-01-22T02:10:11.899Z"
   },
   {
@@ -530,7 +530,7 @@ window.LWF_DATA = {
    "id": "PMsl7CDL-Io",
    "title": "Discover Delicious Produce with the Vegetable Song for Kids | Sing and Learn!",
    "duration": "2:17",
-   "views": 127,
+   "views": 128,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -698,14 +698,14 @@ window.LWF_DATA = {
    "id": "5ITpFQOohp8",
    "title": "Learning the Letter U to Z Is Actually Really Fun for Kids 🎶🧠",
    "duration": "1:34",
-   "views": 630,
+   "views": 631,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
    "id": "D1x8S-17EgA",
    "title": "Learning the Letter P to T Is Actually Really Fun for Kids",
    "duration": "1:31",
-   "views": 969,
+   "views": 970,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -938,7 +938,7 @@ window.LWF_DATA = {
   {
    "id": "zo1q-Uwo82U",
    "title": "10 Flower Names for Kids 🌼 #ShortsKids Learn Flower Names Fast 🌷",
-   "views": 402
+   "views": 401
   },
   {
    "id": "-1axwog-abc",
@@ -963,7 +963,7 @@ window.LWF_DATA = {
   {
    "id": "hPXNze8y4zk",
    "title": "1 to 10 Number Counting | Preschool Learning #shorts",
-   "views": 663
+   "views": 664
   },
   {
    "id": "_trHKogRgcs",
@@ -1033,7 +1033,7 @@ window.LWF_DATA = {
   {
    "id": "XzQW4FMHiNU",
    "title": "A to Z Alphabet Song for Kids 🎵 Learn Fast!",
-   "views": 822
+   "views": 823
   },
   {
    "id": "Dr3UWgO42ZM",
@@ -1083,7 +1083,7 @@ window.LWF_DATA = {
   {
    "id": "cShVmZDQa2U",
    "title": "Learn ABC FAST 🚀 Easy A to Z for Kids",
-   "views": 650
+   "views": 653
   },
   {
    "id": "EEtn2x_eTUA",
@@ -1263,7 +1263,7 @@ window.LWF_DATA = {
   {
    "id": "kzSfg6rLGtU",
    "title": "Learn Table of 5 FAST 😲 | 5 Times Table Trick in 10 Sec 🔥 #shorts",
-   "views": 303
+   "views": 305
   },
   {
    "id": "z7J_7vI7Ybw",
@@ -1348,7 +1348,7 @@ window.LWF_DATA = {
   {
    "id": "djpqV9Ao4GY",
    "title": "7 Days in 15 Seconds 😲 | Learn Week Names Fast 🔥 #shorts",
-   "views": 311
+   "views": 312
   },
   {
    "id": "yR4Q4eDJsrA",
@@ -1428,7 +1428,7 @@ window.LWF_DATA = {
   {
    "id": "9Qq2VAV88Xk",
    "title": "Table of 3 Easy Trick 😲 | Learn 3 Times Table Fast for Kids 🔥 (New Method)",
-   "views": 545
+   "views": 546
   },
   {
    "id": "YiKUxRL2NEo",
@@ -1458,7 +1458,7 @@ window.LWF_DATA = {
   {
    "id": "Jn9Up2z-_sI",
    "title": "✨1 to 10 FAST 😲 | Learn Counting in 20 Seconds 🔥 #shorts",
-   "views": 583
+   "views": 585
   },
   {
    "id": "eq9IuS3ygWo",
