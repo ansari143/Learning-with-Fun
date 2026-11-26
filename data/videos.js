@@ -1,12 +1,12 @@
 window.LWF_DATA = {
- "updated": "2026-11-26T00:49:03.533Z",
+ "updated": "2026-11-26T06:44:55.505Z",
  "videos": [
   {
    "id": "ZCr43ps4CJY",
    "title": "Circle, Square, Triangle & More | Learning Video for Toddlers & Kids | 16 Minutes",
    "duration": "15:39",
    "views": 0,
-   "published": "2026-11-25T21:49:03.533Z"
+   "published": "2026-11-25T21:44:55.505Z"
   },
   {
    "id": "lU_z1w0u3j0",
@@ -930,37 +930,37 @@ window.LWF_DATA = {
   {
    "id": "1D6zYyY8jxY",
    "title": "Easy Bird Names for Nursery & Preschool",
-   "views": 508
+   "views": 509
   },
   {
    "id": "73BUh52a03c",
    "title": "Learn 10 Games Names in 20 Seconds! 🎯",
-   "views": 502
+   "views": 503
   },
   {
    "id": "ZXgw5x9cVIM",
    "title": "Learn 10 Kitchen Tools in 20 Seconds! 🍽️",
-   "views": 347
+   "views": 348
   },
   {
    "id": "zo1q-Uwo82U",
    "title": "10 Flower Names for Kids 🌼 #ShortsKids Learn Flower Names Fast 🌷",
-   "views": 401
+   "views": 402
   },
   {
    "id": "-1axwog-abc",
    "title": "Learn 10 Transport Names in 20 Seconds! 🚀",
-   "views": 429
+   "views": 430
   },
   {
    "id": "fw1R5pvmCUo",
    "title": "Easy Vegetable Names for Nursery & Preschool",
-   "views": 279
+   "views": 280
   },
   {
    "id": "AdyD2JSRDE8",
    "title": "Animal Names for Kids | Fun Learning 🦒10 Animals Challenge for Kids 🐵",
-   "views": 254
+   "views": 255
   },
   {
    "id": "6ixyH-0sTgI",
@@ -1285,7 +1285,7 @@ window.LWF_DATA = {
   {
    "id": "TmVCimDtSLU",
    "title": "Learn Table of 7 FAST 😲 | 7 Times Table Trick in 15 Sec 🔥 #shorts",
-   "views": 342
+   "views": 343
   },
   {
    "id": "r-OKRsbkO-s",
@@ -1710,7 +1710,7 @@ window.LWF_DATA = {
   {
    "id": "fT8k9m43Svo",
    "title": "🚀 Learning the Letter U to Z | Fun ABC Phonics Song for Kids | Preschool & Kindergarten Education",
-   "views": 76000
+   "views": 77000
   },
   {
    "id": "63ETm9eetX0",
