@@ -1,12 +1,12 @@
 window.LWF_DATA = {
- "updated": "2026-11-26T12:40:43.994Z",
+ "updated": "2026-11-26T18:36:53.838Z",
  "videos": [
   {
    "id": "ZCr43ps4CJY",
    "title": "Circle, Square, Triangle & More | Learning Video for Toddlers & Kids | 16 Minutes",
    "duration": "15:39",
    "views": 1,
-   "published": "2026-11-25T21:40:43.994Z"
+   "published": "2026-11-25T21:36:53.838Z"
   },
   {
    "id": "lU_z1w0u3j0",
@@ -33,7 +33,7 @@ window.LWF_DATA = {
    "id": "lTQFVf6uJu4",
    "title": "12 Months of the Year | January to December for KidsLearn Month Names in English",
    "duration": "0:33",
-   "views": 64,
+   "views": 62,
    "published": "2026-08-23T06:40:31.903Z"
   },
   {
@@ -516,7 +516,7 @@ window.LWF_DATA = {
    "id": "ERza69rtQYU",
    "title": "Counting Numbers 1 to 10 | Fun Learning Video for Kids 👶🔢",
    "duration": "0:58",
-   "views": 94,
+   "views": 93,
    "published": "2026-01-22T02:10:11.899Z"
   },
   {
@@ -537,7 +537,7 @@ window.LWF_DATA = {
    "id": "PMsl7CDL-Io",
    "title": "Discover Delicious Produce with the Vegetable Song for Kids | Sing and Learn!",
    "duration": "2:17",
-   "views": 129,
+   "views": 128,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -614,7 +614,7 @@ window.LWF_DATA = {
    "id": "CkTkAPNkVdQ",
    "title": "A to Z Countries ABC Phonics Song for Toddlers & Kids 🌎",
    "duration": "1:09",
-   "views": 908,
+   "views": 905,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -705,7 +705,7 @@ window.LWF_DATA = {
    "id": "5ITpFQOohp8",
    "title": "Learning the Letter U to Z Is Actually Really Fun for Kids 🎶🧠",
    "duration": "1:34",
-   "views": 631,
+   "views": 634,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -930,7 +930,7 @@ window.LWF_DATA = {
   {
    "id": "1D6zYyY8jxY",
    "title": "Easy Bird Names for Nursery & Preschool",
-   "views": 509
+   "views": 510
   },
   {
    "id": "73BUh52a03c",
@@ -970,7 +970,7 @@ window.LWF_DATA = {
   {
    "id": "hPXNze8y4zk",
    "title": "1 to 10 Number Counting | Preschool Learning #shorts",
-   "views": 667
+   "views": 666
   },
   {
    "id": "_trHKogRgcs",
@@ -1010,7 +1010,7 @@ window.LWF_DATA = {
   {
    "id": "m-WBSgAS28o",
    "title": "One to Ten Words in 20 Seconds! 🚀Learn Number Words 1–10 Easy for Kids 🌈",
-   "views": 432
+   "views": 431
   },
   {
    "id": "fmjKHiwxaHI",
@@ -1020,7 +1020,7 @@ window.LWF_DATA = {
   {
    "id": "P7cvi30GW_g",
    "title": "Best Counting Trick for Nursery Kids 😍",
-   "views": 641
+   "views": 639
   },
   {
    "id": "-T8pDI68vG4",
@@ -1440,7 +1440,7 @@ window.LWF_DATA = {
   {
    "id": "YiKUxRL2NEo",
    "title": "Table of 5 in 10 Seconds 😲 | Learn 5 Times Table FAST 🔥 #shorts",
-   "views": 299
+   "views": 300
   },
   {
    "id": "IludAx6u_Kc",
@@ -1450,7 +1450,7 @@ window.LWF_DATA = {
   {
    "id": "dMUf5IV6aFo",
    "title": "Table of 4 in 20 Seconds 😲 | Learn 4 Times Table Fast 🔥 #shorts",
-   "views": 242
+   "views": 244
   },
   {
    "id": "OUzgIV7bJDI",
@@ -1580,7 +1580,7 @@ window.LWF_DATA = {
   {
    "id": "545NbUFt-7g",
    "title": "A for Apple 🍎 B for Ball ⚽ | Kids ABC Song",
-   "views": 4300
+   "views": 4200
   },
   {
    "id": "Mjm3lu8yhQM",
@@ -1710,7 +1710,7 @@ window.LWF_DATA = {
   {
    "id": "fT8k9m43Svo",
    "title": "🚀 Learning the Letter U to Z | Fun ABC Phonics Song for Kids | Preschool & Kindergarten Education",
-   "views": 77000
+   "views": 76000
   },
   {
    "id": "63ETm9eetX0",
