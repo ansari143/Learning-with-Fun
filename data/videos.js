@@ -1,12 +1,12 @@
 window.LWF_DATA = {
- "updated": "2026-11-26T06:44:55.505Z",
+ "updated": "2026-11-26T12:40:43.994Z",
  "videos": [
   {
    "id": "ZCr43ps4CJY",
    "title": "Circle, Square, Triangle & More | Learning Video for Toddlers & Kids | 16 Minutes",
    "duration": "15:39",
-   "views": 0,
-   "published": "2026-11-25T21:44:55.505Z"
+   "views": 1,
+   "published": "2026-11-25T21:40:43.994Z"
   },
   {
    "id": "lU_z1w0u3j0",
@@ -69,7 +69,7 @@ window.LWF_DATA = {
    "title": "Learn 1 to 10 Fast 😲 | Counting for Kids in Easy Way 🔥 (New Method)",
    "duration": "0:57",
    "views": 11,
-   "published": "2026-08-19T23:29:51.042Z"
+   "published": "2026-07-29T12:40:43.994Z"
   },
   {
    "id": "vzinkxWOV5g",
@@ -286,7 +286,7 @@ window.LWF_DATA = {
    "title": "Learn Table of 4 Easily 😲 | 4 Times Table for Kids | Fun & Simple Multiplication 🎶",
    "duration": "1:29",
    "views": 27,
-   "published": "2026-05-22T02:10:11.899Z"
+   "published": "2026-04-30T12:40:43.994Z"
   },
   {
    "id": "5ELVpiTMkkc",
@@ -935,7 +935,7 @@ window.LWF_DATA = {
   {
    "id": "73BUh52a03c",
    "title": "Learn 10 Games Names in 20 Seconds! 🎯",
-   "views": 503
+   "views": 504
   },
   {
    "id": "ZXgw5x9cVIM",
@@ -950,67 +950,67 @@ window.LWF_DATA = {
   {
    "id": "-1axwog-abc",
    "title": "Learn 10 Transport Names in 20 Seconds! 🚀",
-   "views": 430
+   "views": 431
   },
   {
    "id": "fw1R5pvmCUo",
    "title": "Easy Vegetable Names for Nursery & Preschool",
-   "views": 280
+   "views": 281
   },
   {
    "id": "AdyD2JSRDE8",
    "title": "Animal Names for Kids | Fun Learning 🦒10 Animals Challenge for Kids 🐵",
-   "views": 255
+   "views": 256
   },
   {
    "id": "6ixyH-0sTgI",
    "title": "10 Fruits Name for Kids 🌈 #Shorts",
-   "views": 219
+   "views": 220
   },
   {
    "id": "hPXNze8y4zk",
    "title": "1 to 10 Number Counting | Preschool Learning #shorts",
-   "views": 665
+   "views": 667
   },
   {
    "id": "_trHKogRgcs",
    "title": "91 to 100 Counting Made Easy | Nursery & Kindergarten Learning",
-   "views": 172
+   "views": 174
   },
   {
    "id": "g1zKZ-NZffA",
    "title": "Best Counting Video for Kids | 41–50",
-   "views": 193
+   "views": 195
   },
   {
    "id": "ejWG8GlKERc",
    "title": "(Topic) for Kids | Learning wiEasy Counting 81 to 90 for Preschool Kids",
-   "views": 213
+   "views": 214
   },
   {
    "id": "dh4gqwqBBiE",
    "title": "Easy Counting 31 to 40 for Preschool Kids",
-   "views": 253
+   "views": 254
   },
   {
    "id": "6ujXmbwtdoo",
    "title": "Easy Counting 21 to 30 for Preschool Kids",
-   "views": 226
+   "views": 227
   },
   {
    "id": "DnotY1uaMkk",
    "title": "11 to 20 Counting Made Easy 🌈 #shorts",
-   "views": 256
+   "views": 258
   },
   {
    "id": "6eBar-7udkg",
    "title": "Learn 1 to 10 Counting in 20 Seconds! 🚀",
-   "views": 412
+   "views": 414
   },
   {
    "id": "m-WBSgAS28o",
    "title": "One to Ten Words in 20 Seconds! 🚀Learn Number Words 1–10 Easy for Kids 🌈",
-   "views": 431
+   "views": 432
   },
   {
    "id": "fmjKHiwxaHI",
@@ -1020,7 +1020,7 @@ window.LWF_DATA = {
   {
    "id": "P7cvi30GW_g",
    "title": "Best Counting Trick for Nursery Kids 😍",
-   "views": 640
+   "views": 641
   },
   {
    "id": "-T8pDI68vG4",
@@ -1030,7 +1030,7 @@ window.LWF_DATA = {
   {
    "id": "YNM35H9iEYM",
    "title": "ABC Made Easy for Kids 🌈 | Learn Fast!",
-   "views": 866
+   "views": 867
   },
   {
    "id": "cD3eYzHSVaY",
@@ -1075,7 +1075,7 @@ window.LWF_DATA = {
   {
    "id": "xFtEi5I-32I",
    "title": "ABC Magic Trick 🤯 Learn A to Z Super Fast!",
-   "views": 748
+   "views": 749
   },
   {
    "id": "dZNN3pRMaF0",
@@ -1085,7 +1085,7 @@ window.LWF_DATA = {
   {
    "id": "czqY52SZHCs",
    "title": "ABC in One Minute 🚀 Trending Learning Trick",
-   "views": 742
+   "views": 743
   },
   {
    "id": "cShVmZDQa2U",
@@ -1130,92 +1130,92 @@ window.LWF_DATA = {
   {
    "id": "THlQjbiIBog",
    "title": "2 Table Fast Challenge 😱 Can You Do It?",
-   "views": 309
+   "views": 311
   },
   {
    "id": "HLuWDOWYecQ",
    "title": "3 Table Fast Challenge 😱 Can You Do It?",
-   "views": 402
+   "views": 403
   },
   {
    "id": "ZKty-0wNE0c",
    "title": "2 Times Table Magic Trick 🤯 Learn Super Fast!",
-   "views": 404
+   "views": 405
   },
   {
    "id": "gJGys6h77os",
    "title": "1 to 10 for Kids 👧🧒 Super Easy Counting Learn Counting Without Mistakes 🔥 Viral Shorts",
-   "views": 393
+   "views": 394
   },
   {
    "id": "cUKQrTERmWw",
    "title": "6 Table Fast Challenge 😱 Can You Do It?",
-   "views": 315
+   "views": 316
   },
   {
    "id": "PZ26ks9xemI",
    "title": "6 Times Table Magic Trick 🤯 Learn Super Fast!",
-   "views": 241
+   "views": 242
   },
   {
    "id": "tOKGuO5j_2w",
    "title": "2 Times Table in One Minute 🚀 Fun Learning Trick",
-   "views": 300
+   "views": 301
   },
   {
    "id": "u8vwHdBQTac",
    "title": "Easy A to Z for Kids 👧🧒 Super Fast Learning ABC in One Minute 🚀 Fun Learning Trick",
-   "views": 373
+   "views": 374
   },
   {
    "id": "efkpjtoXa4s",
    "title": "ABC Magic Trick 🤯 Learn A to Z Super Fast!",
-   "views": 408
+   "views": 409
   },
   {
    "id": "5XRTKOxutKo",
    "title": "Most Viral Table of 2 Trick 😲🔥",
-   "views": 339
+   "views": 340
   },
   {
    "id": "xoGI9KujVug",
    "title": "Sunday to Saturday Made EASY ✅ Learn Fast!",
-   "views": 286
+   "views": 287
   },
   {
    "id": "_yTd3_a-G_g",
    "title": "Kids Learn A to Z Easily 😍 #shorts",
-   "views": 341
+   "views": 342
   },
   {
    "id": "pwj3fqVRZrA",
    "title": "Table of 3 Made EASY ✅ Learn in Seconds!",
-   "views": 261
+   "views": 262
   },
   {
    "id": "ZD0T_3DkjvE",
    "title": "Counting 1–10 Challenge 😱 Can You Count Fast?",
-   "views": 420
+   "views": 421
   },
   {
    "id": "OfUK06h--QI",
    "title": "1 to 10 for Kids 👧🧒 Super Easy Counting",
-   "views": 371
+   "views": 372
   },
   {
    "id": "dBjp1ESbRfs",
    "title": "1 to 10 Counting in 20 Seconds 😲🔥 #shorts",
-   "views": 365
+   "views": 366
   },
   {
    "id": "3PhUCWm1yoo",
    "title": "ABC Learning Trick 🚀 Learn A to Z Super Fast!",
-   "views": 501
+   "views": 502
   },
   {
    "id": "vHNUkgwjmQo",
    "title": "4 Times Table in One Minute 🚀 Viral Learning Trick",
-   "views": 451
+   "views": 452
   },
   {
    "id": "AF5W3l7xhcA",
@@ -1225,77 +1225,77 @@ window.LWF_DATA = {
   {
    "id": "t4gFKW8lCK0",
    "title": "Table of 3 FAST 😲 | Learn 3 Times Table Easy 🔥 #shorts",
-   "views": 382
+   "views": 383
   },
   {
    "id": "b2oHPd5qYhU",
    "title": "Table of 2 FAST 😲 | Learn 2 Times Table Easy 🔥 #shorts",
-   "views": 294
+   "views": 295
   },
   {
    "id": "wipWF6sX4rc",
    "title": "Table of 3 FAST 😲 | Learn 3 Times Table Easy 🔥 #shorts",
-   "views": 267
+   "views": 268
   },
   {
    "id": "sMtmhazIQuA",
    "title": "Table of 6 in 15 Seconds 😲 | Learn 6 Times Table FAST 🔥 #shorts",
-   "views": 299
+   "views": 300
   },
   {
    "id": "-Dc008xTFw4",
    "title": "Tables 1 to 10 in Minutes 😲 | Learn Multiplication FAST for Kids 🔥 #shorts",
-   "views": 386
+   "views": 387
   },
   {
    "id": "cf00ArUw41w",
    "title": "Table of 4 in 15 Seconds 😲 | Learn 4 Times Table FAST 🔥 #shorts",
-   "views": 255
+   "views": 256
   },
   {
    "id": "doobEb5tNHI",
    "title": "Table of 2 in 10 Seconds 😲 | Learn 2 Times Table FAST 🔥 #shorts",
-   "views": 262
+   "views": 263
   },
   {
    "id": "ojaaYO-4chA",
    "title": "Table of 5 in 10 Seconds 😲 | Learn 5 Times Table FAST 🔥 #shorts",
-   "views": 220
+   "views": 222
   },
   {
    "id": "HZq6yuWkB50",
    "title": "Table of 6 in 15 Seconds 😲 | Learn 6 Times Table FAST 🔥 #shorts",
-   "views": 381
+   "views": 382
   },
   {
    "id": "kzSfg6rLGtU",
    "title": "Learn Table of 5 FAST 😲 | 5 Times Table Trick in 10 Sec 🔥 #shorts",
-   "views": 306
+   "views": 307
   },
   {
    "id": "z7J_7vI7Ybw",
    "title": "Learn Table of 6 FAST 😲 | 6 Times Table Trick in 15 Sec 🔥 #shorts",
-   "views": 310
+   "views": 311
   },
   {
    "id": "7H2qeppD-9w",
    "title": "Learn Table of 3 FAST 😲 | 3 Times Table Trick in 15 Sec 🔥 #shorts",
-   "views": 277
+   "views": 278
   },
   {
    "id": "TmVCimDtSLU",
    "title": "Learn Table of 7 FAST 😲 | 7 Times Table Trick in 15 Sec 🔥 #shorts",
-   "views": 343
+   "views": 344
   },
   {
    "id": "r-OKRsbkO-s",
    "title": "Table of 4 in 15 Seconds 😲 | Learn 4 Times Table FAST 🔥 #shorts",
-   "views": 310
+   "views": 311
   },
   {
    "id": "qDOIZsUK2hA",
    "title": "Table of 5 Trick in 15 Seconds 😲 | Fastest Way to Learn 5 Table 🔥 #shorts",
-   "views": 229
+   "views": 230
   },
   {
    "id": "BGPJTByx3Jo",
@@ -1490,7 +1490,7 @@ window.LWF_DATA = {
   {
    "id": "FhIWroDKpko",
    "title": "A to Z ABC Song 🎵 | Learn Alphabet Fast | Kids Learning Short",
-   "views": 5300
+   "views": 5400
   },
   {
    "id": "4kEmHVN-sDg",
