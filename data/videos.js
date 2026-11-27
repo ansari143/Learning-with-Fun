@@ -1,5 +1,5 @@
 window.LWF_DATA = {
- "updated": "2026-11-26T18:36:53.838Z",
+ "updated": "2026-11-27T00:49:09.801Z",
  "videos": [
   {
    "id": "ZCr43ps4CJY",
@@ -614,7 +614,7 @@ window.LWF_DATA = {
    "id": "CkTkAPNkVdQ",
    "title": "A to Z Countries ABC Phonics Song for Toddlers & Kids 🌎",
    "duration": "1:09",
-   "views": 905,
+   "views": 906,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -970,7 +970,7 @@ window.LWF_DATA = {
   {
    "id": "hPXNze8y4zk",
    "title": "1 to 10 Number Counting | Preschool Learning #shorts",
-   "views": 666
+   "views": 676
   },
   {
    "id": "_trHKogRgcs",
