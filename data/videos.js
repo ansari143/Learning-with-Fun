@@ -1,11 +1,11 @@
 window.LWF_DATA = {
- "updated": "2026-11-27T00:49:09.801Z",
+ "updated": "2026-11-27T06:44:48.671Z",
  "videos": [
   {
    "id": "ZCr43ps4CJY",
    "title": "Circle, Square, Triangle & More | Learning Video for Toddlers & Kids | 16 Minutes",
    "duration": "15:39",
-   "views": 1,
+   "views": 3,
    "published": "2026-11-25T21:36:53.838Z"
   },
   {
@@ -523,7 +523,7 @@ window.LWF_DATA = {
    "id": "nMNoMeLxDD4",
    "title": "ABC Phonics for Kids | Learn English Alphabet A–Z | Colorful Pictures",
    "duration": "3:04",
-   "views": 255,
+   "views": 256,
    "published": "2026-01-22T02:10:11.899Z"
   },
   {
@@ -930,7 +930,7 @@ window.LWF_DATA = {
   {
    "id": "1D6zYyY8jxY",
    "title": "Easy Bird Names for Nursery & Preschool",
-   "views": 510
+   "views": 512
   },
   {
    "id": "73BUh52a03c",
@@ -940,12 +940,12 @@ window.LWF_DATA = {
   {
    "id": "ZXgw5x9cVIM",
    "title": "Learn 10 Kitchen Tools in 20 Seconds! 🍽️",
-   "views": 348
+   "views": 349
   },
   {
    "id": "zo1q-Uwo82U",
    "title": "10 Flower Names for Kids 🌼 #ShortsKids Learn Flower Names Fast 🌷",
-   "views": 402
+   "views": 403
   },
   {
    "id": "-1axwog-abc",
@@ -1025,7 +1025,7 @@ window.LWF_DATA = {
   {
    "id": "-T8pDI68vG4",
    "title": "Table of 2 in 15 Seconds! 🤩",
-   "views": 621
+   "views": 622
   },
   {
    "id": "YNM35H9iEYM",
@@ -1045,7 +1045,7 @@ window.LWF_DATA = {
   {
    "id": "Dr3UWgO42ZM",
    "title": "🌈✨ABC Challenge! Can You Say A to Z?",
-   "views": 876
+   "views": 877
   },
   {
    "id": "3XuL38zFzZ0",
@@ -1075,27 +1075,27 @@ window.LWF_DATA = {
   {
    "id": "xFtEi5I-32I",
    "title": "ABC Magic Trick 🤯 Learn A to Z Super Fast!",
-   "views": 749
+   "views": 751
   },
   {
    "id": "dZNN3pRMaF0",
    "title": "Table of 7 FAST 😲 | Learn 7 Times Table Easy 🔥 #shorts",
-   "views": 500
+   "views": 502
   },
   {
    "id": "czqY52SZHCs",
    "title": "ABC in One Minute 🚀 Trending Learning Trick",
-   "views": 743
+   "views": 744
   },
   {
    "id": "cShVmZDQa2U",
    "title": "Learn ABC FAST 🚀 Easy A to Z for Kids",
-   "views": 656
+   "views": 658
   },
   {
    "id": "EEtn2x_eTUA",
    "title": "Learn 2 Table Without Mistakes 🔥 Viral Shorts",
-   "views": 435
+   "views": 436
   },
   {
    "id": "xptg3-3l1LY",
@@ -1325,27 +1325,27 @@ window.LWF_DATA = {
   {
    "id": "ULZc_PwpA14",
    "title": "1 to 10 in 10 Seconds 😲 | Learn Counting FAST 🔥 #shorts",
-   "views": 570
+   "views": 571
   },
   {
    "id": "-LpRp4mmpI8",
    "title": "Table of 5 Easy Trick 😲 | Learn 5 Times Table Fast for Kids 🔥 (Step-by-Step Method)",
-   "views": 359
+   "views": 360
   },
   {
    "id": "eD_V8yg-0gg",
    "title": "Learn Table of 6 FAST 😲 | 6 Table Trick in 15 Seconds 🔥 #shorts",
-   "views": 270
+   "views": 271
   },
   {
    "id": "SpM4J2rYzF8",
    "title": "Table of 6 Trick in 20 Seconds 😲 | Learn 6 Times Table Fast 🔥 #shorts",
-   "views": 275
+   "views": 277
   },
   {
    "id": "2pgfKFcFWuU",
    "title": "7 Days in 15 Seconds 😲 | Learn Week Names Fast 🔥 #shorts",
-   "views": 262
+   "views": 263
   },
   {
    "id": "K622jXhQFZ4",
@@ -1470,7 +1470,7 @@ window.LWF_DATA = {
   {
    "id": "eq9IuS3ygWo",
    "title": "Table of 3 in 30 Seconds 😲 | Learn 3 Times Table Fast 🔥 #shorts",
-   "views": 581
+   "views": 584
   },
   {
    "id": "khRW2KpRZpA",
