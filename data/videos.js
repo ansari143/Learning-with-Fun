@@ -1,5 +1,5 @@
 window.LWF_DATA = {
- "updated": "2026-11-27T12:40:20.488Z",
+ "updated": "2026-11-27T18:36:31.655Z",
  "videos": [
   {
    "id": "ZCr43ps4CJY",
@@ -397,7 +397,7 @@ window.LWF_DATA = {
    "id": "KIhDERnm4ns",
    "title": "Days of the Week Easy Trick 😲 | Sunday to Saturday for Kids 🔥 | Learn Fast!",
    "duration": "0:24",
-   "views": 32,
+   "views": 33,
    "published": "2026-04-22T02:10:11.899Z"
   },
   {
@@ -614,7 +614,7 @@ window.LWF_DATA = {
    "id": "CkTkAPNkVdQ",
    "title": "A to Z Countries ABC Phonics Song for Toddlers & Kids 🌎",
    "duration": "1:09",
-   "views": 906,
+   "views": 905,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -930,22 +930,22 @@ window.LWF_DATA = {
   {
    "id": "1D6zYyY8jxY",
    "title": "Easy Bird Names for Nursery & Preschool",
-   "views": 515
+   "views": 517
   },
   {
    "id": "73BUh52a03c",
    "title": "Learn 10 Games Names in 20 Seconds! 🎯",
-   "views": 510
+   "views": 512
   },
   {
    "id": "ZXgw5x9cVIM",
    "title": "Learn 10 Kitchen Tools in 20 Seconds! 🍽️",
-   "views": 351
+   "views": 352
   },
   {
    "id": "zo1q-Uwo82U",
    "title": "10 Flower Names for Kids 🌼 #ShortsKids Learn Flower Names Fast 🌷",
-   "views": 404
+   "views": 405
   },
   {
    "id": "-1axwog-abc",
@@ -955,7 +955,7 @@ window.LWF_DATA = {
   {
    "id": "fw1R5pvmCUo",
    "title": "Easy Vegetable Names for Nursery & Preschool",
-   "views": 281
+   "views": 288
   },
   {
    "id": "AdyD2JSRDE8",
@@ -970,7 +970,7 @@ window.LWF_DATA = {
   {
    "id": "hPXNze8y4zk",
    "title": "1 to 10 Number Counting | Preschool Learning #shorts",
-   "views": 677
+   "views": 679
   },
   {
    "id": "_trHKogRgcs",
@@ -1005,12 +1005,12 @@ window.LWF_DATA = {
   {
    "id": "6eBar-7udkg",
    "title": "Learn 1 to 10 Counting in 20 Seconds! 🚀",
-   "views": 417
+   "views": 419
   },
   {
    "id": "m-WBSgAS28o",
    "title": "One to Ten Words in 20 Seconds! 🚀Learn Number Words 1–10 Easy for Kids 🌈",
-   "views": 433
+   "views": 434
   },
   {
    "id": "fmjKHiwxaHI",
@@ -1330,7 +1330,7 @@ window.LWF_DATA = {
   {
    "id": "-LpRp4mmpI8",
    "title": "Table of 5 Easy Trick 😲 | Learn 5 Times Table Fast for Kids 🔥 (Step-by-Step Method)",
-   "views": 360
+   "views": 359
   },
   {
    "id": "eD_V8yg-0gg",
@@ -1340,12 +1340,12 @@ window.LWF_DATA = {
   {
    "id": "SpM4J2rYzF8",
    "title": "Table of 6 Trick in 20 Seconds 😲 | Learn 6 Times Table Fast 🔥 #shorts",
-   "views": 277
+   "views": 276
   },
   {
    "id": "2pgfKFcFWuU",
    "title": "7 Days in 15 Seconds 😲 | Learn Week Names Fast 🔥 #shorts",
-   "views": 263
+   "views": 262
   },
   {
    "id": "K622jXhQFZ4",
@@ -1470,7 +1470,7 @@ window.LWF_DATA = {
   {
    "id": "eq9IuS3ygWo",
    "title": "Table of 3 in 30 Seconds 😲 | Learn 3 Times Table Fast 🔥 #shorts",
-   "views": 584
+   "views": 582
   },
   {
    "id": "khRW2KpRZpA",
