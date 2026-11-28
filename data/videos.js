@@ -1,5 +1,5 @@
 window.LWF_DATA = {
- "updated": "2026-11-28T06:41:37.527Z",
+ "updated": "2026-11-28T12:37:16.654Z",
  "videos": [
   {
    "id": "ZCr43ps4CJY",
@@ -12,7 +12,7 @@ window.LWF_DATA = {
    "id": "lU_z1w0u3j0",
    "title": "Learn Colors for Toddlers | Learning Video for Toddlers & Kids | 16 Minutes",
    "duration": "15:49",
-   "views": 3,
+   "views": 4,
    "published": "2026-11-23T21:36:31.102Z"
   },
   {
@@ -104,7 +104,7 @@ window.LWF_DATA = {
    "title": "Table of 2 Easy Trick 😲 | Learn 2 Times Table FAST for Kids 🔥 (Most Viral Method)",
    "duration": "0:41",
    "views": 42,
-   "published": "2026-07-20T23:29:51.042Z"
+   "published": "2026-07-01T12:37:16.654Z"
   },
   {
    "id": "wDyIc_7wXjY",
@@ -272,7 +272,7 @@ window.LWF_DATA = {
    "title": "Table of 5 in 1 Minute 😲 | Learn 5 Times Table Fast & Easy 🔥 | Kids Learning",
    "duration": "0:35",
    "views": 13,
-   "published": "2026-05-22T02:10:11.899Z"
+   "published": "2026-05-02T12:37:16.654Z"
   },
   {
    "id": "1C9CBw6x3e0",
@@ -1465,7 +1465,7 @@ window.LWF_DATA = {
   {
    "id": "Jn9Up2z-_sI",
    "title": "✨1 to 10 FAST 😲 | Learn Counting in 20 Seconds 🔥 #shorts",
-   "views": 587
+   "views": 588
   },
   {
    "id": "eq9IuS3ygWo",
