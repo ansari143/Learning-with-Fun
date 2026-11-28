@@ -1,5 +1,5 @@
 window.LWF_DATA = {
- "updated": "2026-11-28T00:47:54.260Z",
+ "updated": "2026-11-28T06:41:37.527Z",
  "videos": [
   {
    "id": "ZCr43ps4CJY",
@@ -82,7 +82,7 @@ window.LWF_DATA = {
    "id": "vqB0F3MJWmA",
    "title": "Learn Table of 4 FAST 😲 | 4 Times Table Easy Trick for Kids 🔥 (New Method)",
    "duration": "0:37",
-   "views": 18,
+   "views": 19,
    "published": "2026-07-27T12:40:10.669Z"
   },
   {
@@ -873,7 +873,7 @@ window.LWF_DATA = {
    "id": "MD6gX4w5ER4",
    "title": "Learning Colors - Colorful Song for Kids",
    "duration": "1:39",
-   "views": 242,
+   "views": 244,
    "published": "2025-11-18T02:10:11.899Z"
   },
   {
@@ -930,47 +930,47 @@ window.LWF_DATA = {
   {
    "id": "1D6zYyY8jxY",
    "title": "Easy Bird Names for Nursery & Preschool",
-   "views": 519
+   "views": 530
   },
   {
    "id": "73BUh52a03c",
    "title": "Learn 10 Games Names in 20 Seconds! 🎯",
-   "views": 512
+   "views": 525
   },
   {
    "id": "ZXgw5x9cVIM",
    "title": "Learn 10 Kitchen Tools in 20 Seconds! 🍽️",
-   "views": 352
+   "views": 354
   },
   {
    "id": "zo1q-Uwo82U",
    "title": "10 Flower Names for Kids 🌼 #ShortsKids Learn Flower Names Fast 🌷",
-   "views": 405
+   "views": 407
   },
   {
    "id": "-1axwog-abc",
    "title": "Learn 10 Transport Names in 20 Seconds! 🚀",
-   "views": 433
+   "views": 434
   },
   {
    "id": "fw1R5pvmCUo",
    "title": "Easy Vegetable Names for Nursery & Preschool",
-   "views": 288
+   "views": 289
   },
   {
    "id": "AdyD2JSRDE8",
    "title": "Animal Names for Kids | Fun Learning 🦒10 Animals Challenge for Kids 🐵",
-   "views": 269
+   "views": 275
   },
   {
    "id": "6ixyH-0sTgI",
    "title": "10 Fruits Name for Kids 🌈 #Shorts",
-   "views": 227
+   "views": 234
   },
   {
    "id": "hPXNze8y4zk",
    "title": "1 to 10 Number Counting | Preschool Learning #shorts",
-   "views": 681
+   "views": 685
   },
   {
    "id": "_trHKogRgcs",
@@ -985,7 +985,7 @@ window.LWF_DATA = {
   {
    "id": "ejWG8GlKERc",
    "title": "(Topic) for Kids | Learning wiEasy Counting 81 to 90 for Preschool Kids",
-   "views": 218
+   "views": 219
   },
   {
    "id": "dh4gqwqBBiE",
@@ -1000,17 +1000,17 @@ window.LWF_DATA = {
   {
    "id": "DnotY1uaMkk",
    "title": "11 to 20 Counting Made Easy 🌈 #shorts",
-   "views": 262
+   "views": 263
   },
   {
    "id": "6eBar-7udkg",
    "title": "Learn 1 to 10 Counting in 20 Seconds! 🚀",
-   "views": 419
+   "views": 420
   },
   {
    "id": "m-WBSgAS28o",
    "title": "One to Ten Words in 20 Seconds! 🚀Learn Number Words 1–10 Easy for Kids 🌈",
-   "views": 434
+   "views": 437
   },
   {
    "id": "fmjKHiwxaHI",
@@ -1020,7 +1020,7 @@ window.LWF_DATA = {
   {
    "id": "P7cvi30GW_g",
    "title": "Best Counting Trick for Nursery Kids 😍",
-   "views": 642
+   "views": 643
   },
   {
    "id": "-T8pDI68vG4",
@@ -1035,22 +1035,22 @@ window.LWF_DATA = {
   {
    "id": "cD3eYzHSVaY",
    "title": "ABC Challenge! Can You Say A to Z? 🤩",
-   "views": 806
+   "views": 807
   },
   {
    "id": "XzQW4FMHiNU",
    "title": "A to Z Alphabet Song for Kids 🎵 Learn Fast!",
-   "views": 825
+   "views": 826
   },
   {
    "id": "Dr3UWgO42ZM",
    "title": "🌈✨ABC Challenge! Can You Say A to Z?",
-   "views": 879
+   "views": 880
   },
   {
    "id": "3XuL38zFzZ0",
    "title": "Kids Learn ABC Easily 😍 Fun Learning #shorts",
-   "views": 594
+   "views": 595
   },
   {
    "id": "evwyJ4KLTsM",
@@ -1125,7 +1125,7 @@ window.LWF_DATA = {
   {
    "id": "QrIIYSabJGU",
    "title": "Table of 4 Made EASY ✅ Learn in Seconds!",
-   "views": 285
+   "views": 286
   },
   {
    "id": "THlQjbiIBog",
@@ -1250,7 +1250,7 @@ window.LWF_DATA = {
   {
    "id": "cf00ArUw41w",
    "title": "Table of 4 in 15 Seconds 😲 | Learn 4 Times Table FAST 🔥 #shorts",
-   "views": 256
+   "views": 257
   },
   {
    "id": "doobEb5tNHI",
@@ -1710,7 +1710,7 @@ window.LWF_DATA = {
   {
    "id": "fT8k9m43Svo",
    "title": "🚀 Learning the Letter U to Z | Fun ABC Phonics Song for Kids | Preschool & Kindergarten Education",
-   "views": 76000
+   "views": 77000
   },
   {
    "id": "63ETm9eetX0",
