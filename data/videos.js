@@ -1,5 +1,5 @@
 window.LWF_DATA = {
- "updated": "2026-11-27T18:36:31.655Z",
+ "updated": "2026-11-28T00:47:54.260Z",
  "videos": [
   {
    "id": "ZCr43ps4CJY",
@@ -930,7 +930,7 @@ window.LWF_DATA = {
   {
    "id": "1D6zYyY8jxY",
    "title": "Easy Bird Names for Nursery & Preschool",
-   "views": 517
+   "views": 519
   },
   {
    "id": "73BUh52a03c",
@@ -970,7 +970,7 @@ window.LWF_DATA = {
   {
    "id": "hPXNze8y4zk",
    "title": "1 to 10 Number Counting | Preschool Learning #shorts",
-   "views": 679
+   "views": 681
   },
   {
    "id": "_trHKogRgcs",
@@ -1075,27 +1075,27 @@ window.LWF_DATA = {
   {
    "id": "xFtEi5I-32I",
    "title": "ABC Magic Trick 🤯 Learn A to Z Super Fast!",
-   "views": 751
+   "views": 750
   },
   {
    "id": "dZNN3pRMaF0",
    "title": "Table of 7 FAST 😲 | Learn 7 Times Table Easy 🔥 #shorts",
-   "views": 502
+   "views": 500
   },
   {
    "id": "czqY52SZHCs",
    "title": "ABC in One Minute 🚀 Trending Learning Trick",
-   "views": 745
+   "views": 744
   },
   {
    "id": "cShVmZDQa2U",
    "title": "Learn ABC FAST 🚀 Easy A to Z for Kids",
-   "views": 658
+   "views": 657
   },
   {
    "id": "EEtn2x_eTUA",
    "title": "Learn 2 Table Without Mistakes 🔥 Viral Shorts",
-   "views": 436
+   "views": 435
   },
   {
    "id": "xptg3-3l1LY",
@@ -1335,7 +1335,7 @@ window.LWF_DATA = {
   {
    "id": "eD_V8yg-0gg",
    "title": "Learn Table of 6 FAST 😲 | 6 Table Trick in 15 Seconds 🔥 #shorts",
-   "views": 271
+   "views": 270
   },
   {
    "id": "SpM4J2rYzF8",
@@ -1460,12 +1460,12 @@ window.LWF_DATA = {
   {
    "id": "-M8FC6AIPSs",
    "title": "Table of 5 in 15 Seconds 😲 | Learn 5 Times Table Fast 🔥 #shorts",
-   "views": 336
+   "views": 337
   },
   {
    "id": "Jn9Up2z-_sI",
    "title": "✨1 to 10 FAST 😲 | Learn Counting in 20 Seconds 🔥 #shorts",
-   "views": 585
+   "views": 587
   },
   {
    "id": "eq9IuS3ygWo",
@@ -1625,7 +1625,7 @@ window.LWF_DATA = {
   {
    "id": "QIcSa5cxFvQ",
    "title": "What's the BEST Way to Teach Kids Y and Z with FUN Videos?",
-   "views": 9900
+   "views": 10000
   },
   {
    "id": "QYGXh_xZIqM",
